@@ -1,6 +1,6 @@
 # Programmable Society
 
-This is the home of course "Programmable Society" at KTH Royal Institute of Technology, Stockholm, Sweden.
+This is the home of course "Programmable Society" at KTH Royal Institute of Technology, Stockholm, Sweden (course code [DD2485](https://www.kth.se/student/kurser/kurs/DD2485?l=en)).
 
 Next edition: Nov 2023 (Period 2).
 

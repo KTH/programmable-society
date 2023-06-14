@@ -4,7 +4,7 @@ This is the home of course "Programmable Society" at KTH Royal Institute of Tech
 
 Next edition: Nov 2023 (Period 2).
 
-[Martin Monperrus](http://www.monperrus.net/martin/) (Professor), [Benoit Baudry](https://softwarediversity.eu/) (Professor), [Javier Ron](https://www.kth.se/profile/javierro?l=en) (TA), [Deepika Tiwari](https://www.kth.se/profile/deepikat) (TA), [Khashayar Etemadi](https://www.kth.se/profile/khaes) (TA), [Mojtaba Eshghie](https://www.kth.se/profile/eshghie) (TA), [Javier Cabrera](https://www.jacarte.me)(TA), [Frank Reyes](https://www.kth.se/profile/frankrg)(TA)
+[Martin Monperrus (monperrus.eth)](http://www.monperrus.net/martin/) (Professor), [Benoit Baudry](https://softwarediversity.eu/) (Professor), [Javier Ron](https://www.kth.se/profile/javierro?l=en) (TA), [Deepika Tiwari](https://www.kth.se/profile/deepikat) (TA), [Khashayar Etemadi](https://www.kth.se/profile/khaes) (TA), [Mojtaba Eshghie](https://www.kth.se/profile/eshghie) (TA), [Javier Cabrera](https://www.jacarte.me)(TA), [Frank Reyes](https://www.kth.se/profile/frankrg)(TA)
 
 
 ## Agenda

@@ -20,3 +20,7 @@ Next edition: Nov 2023 (Period 2).
 ## Format
 
 Teaching style is [flipped classroom](https://en.wikipedia.org/wiki/Flipped_classroom), grading is project-based.
+
+## Examination
+
+See <https://github.com/KTH/programmable-society/blob/main/grading.md>

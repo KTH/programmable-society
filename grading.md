@@ -1,21 +1,22 @@
-# Grading rules of "Programmable Society" (WIP)
+# Examination rules of "Programmable Society" (WIP)
 
-* To pass the course with an E, the student has to complete and pass between 3 mandatory tasks:
-  * presentation
-  * demo
-  * smart contract protocol development
-* To get a grade better than E, the student can do optional tasks:
+The course has project-based examination, where the student has to perform a number of tasks.
+
+* To pass the course, the student has to complete and pass between 3 mandatory tasks:
+  * presentation (mandatory)
+  * demo (mandatory)
+  * smart contract protocol development (mandatory)
+* To get a grade better than E, the student can do optional tasks. The grading criteria below explain how to pass each task category.
   * essay
   * contribution to open-source
   * feedback
   * questions
-* The grading criteria below explain how to pass each task category.
 * The same student cannot choose the same topic for two different tasks. 
 * Deadlines:
   * Deadline for presentations and demos: the day and time they are given in person
   * Deadline 1 for essay / open-source: Nov XX, 17h Stockholm time
   * Deadline 2 for essay / open-source: Dec XX, 17h Stockholm time
-  * Deadline for feedback on essays or katacodas: 48 hours after go from original authors
+  * Deadline for feedback: 48 hours after go from original authors
   * Deadline for repeated tasks (all): **Jan 8 2024, 17h Stockholm time**.
   * The deadlines are strict and cannot be extended. Not meeting a deadline means failing the task / the repetition.
 

@@ -103,7 +103,7 @@ To pass, you must have the mandatory parts and at least C "yes".
 ## Essays
 
 
-The concept: The students write an essay on a topic relevant to the course. Example of essays, see [2019 essays](https://github.com/KTH/devops-course/tree/master/attic/2019/README-2019.md), [2020 essays](https://github.com/KTH/devops-course/tree/master/attic/2020/README-2020.md)
+The concept: The students write an essay on a topic relevant to the course.
 
 
 |                                             | Yes | No |

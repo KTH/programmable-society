@@ -8,7 +8,7 @@ This is the home of course "Programmable Society" at KTH Royal Institute of Tech
 
 ### 1. Nov 1 2023
 
-Intro: Course introduction (Teaching philosophy, Flipped classroom, Expectations, Team, Agenda, Grading, Communication, Infrastructure, Master's theses and Research). Topic introduction.
+Intro: Course introduction (Teaching philosophy, [Flipped classroom](https://en.wikipedia.org/wiki/Flipped_classroom), Expectations, Team, Agenda, [Grading](https://github.com/KTH/programmable-society/blob/main/grading.md), Communication, [Master's theses and Research](https://www.monperrus.net/martin/topics)). Topic introduction.
 
 ### 2. Nov 8 2023
 

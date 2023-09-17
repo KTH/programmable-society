@@ -33,6 +33,7 @@ Intro: Course introduction (Teaching philosophy, [Flipped classroom](https://en.
 
 ### 7. Dec 13 2023
 
+* [digital identities](https://github.com/KTH/programmable-society/issues/11)
 * [smart contracts for governance (DAO)](https://github.com/KTH/programmable-society/issues/5)
 
 ###  Topics for all weeks:

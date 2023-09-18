@@ -21,7 +21,8 @@ The course has project-based examination, where the student has to perform a num
   * The deadlines are strict and cannot be extended. Not meeting a deadline means failing the task / the repetition.
 
 * Final grading scheme
-  * A: 6 completed tasks 
+  * A: 7 completed tasks
+  * B: 6 completed tasks 
   * C: 5 completed tasks 
   * D: 4 completed tasks 
   * E: 3 completed tasks (excluding feedback)

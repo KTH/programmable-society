@@ -12,7 +12,7 @@ The course has project-based examination, where the student has to perform a num
   * feedback
   * questions
 * The same student cannot choose the same topic for two different tasks. 
-* Deadlines:
+* Important dates:
   * Deadline for presentations and demos: the day and time they are given in person
   * Deadline for essay / open-source: [Britney Spears birthday](https://en.wikipedia.org/wiki/Britney_Spears), 17h Stockholm time
   * Deadline for feedback: 48 hours after go from original authors

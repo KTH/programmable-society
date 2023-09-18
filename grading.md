@@ -21,10 +21,9 @@ The course has project-based examination, where the student has to perform a num
   * The deadlines are strict and cannot be extended. Not meeting a deadline means failing the task / the repetition.
 
 * Final grading scheme
-  * A: 7 completed tasks 
   * A: 6 completed tasks 
   * C: 5 completed tasks 
-  * A: 4 completed tasks 
+  * D: 4 completed tasks 
   * E: 3 completed tasks (excluding feedback)
 * Group work is encouraged (max 2 persons) but you cannot be with the same person for more than 2 projects. You can work alone for one or at most two projects.
 * A failed task requires to pass it again at the end of the course (repeat), based on the feedback from the failure. A task can only be repeated once.

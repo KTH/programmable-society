@@ -21,7 +21,7 @@ Intro: Course introduction (Teaching philosophy, [Flipped classroom](https://en.
 ### 4. Nov 22 2023
 
 * [tool support for smart contracts](https://github.com/KTH/programmable-society/issues/2)
-* [secure smart contracts](https://github.com/KTH/programmable-society/issues/7)
+* [secure smart contracts](https://github.com/KTH/programmable-society/issues/7), [verification](https://github.com/KTH/programmable-society/issues/9)
 * [smart contract libraries](https://github.com/KTH/programmable-society/issues/10)
 
 ### 5. Nov 29 2023

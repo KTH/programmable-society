@@ -86,18 +86,41 @@ To pass, you must have at least 8 "yes".
 ## Smart Contract Protocol (mandatory)
 
 
-The concept: you design and implement a smart contract protocol.
+Concept: As a group of two, you scope, design, and implement a smart contract protocol. You choose a smart contract language of your choice. A DApp/UX is welcome but not mandatory. You present the protocol for 30 minutes (15 min presentation + 15 min questions) during the Smart Contract Grand Oral on December 18, 2023. 
 
-Criteria WIP
-|                                             | Yes | No | 
-|-------------------------------------------- | ----|----|
-|executable: The protocol can be automatically executed from a test suite | Mandatory | - | 
+The protocol proposal must be done through a pull-request before Nov 15, sunset in Stockholm.
+ 
+| Criterion | Yes | No | 
+| --------- | --- |----|
+|github: The protocol is hosted on GitHub, publicly available. The GitHub repository must have a root README file. | Mandatory | - | 
+|tested: The protocol can be automatically executed from a test suite | Mandatory | - | 
+|documented: The usage of the protocol is well documented | Mandatory | - | 
+|timing: The length of the presentation is 15 minutes (hard limit)  | Mandatory | - |
 |motivation: The protocol is clearly motivated | Yes | No | 
 |background: The README gives enough background | Yes | No | 
-|original: The protocol is original  | Yes | No |
+|tech: The presentation focuses on the technical aspects of the protocol | Yes | No | 
+|original: The protocol is original, the README discusses closely related work  | Yes | No |
+|well-structured: the structure of the presentation is announced and graphically visible | Yes | No |
+|code: The presentation contains valuable and readable code snippets | Yes | No |
+|reflection: The presentation contains a reflective part  | Yes | No |
+|sota: There is one good slide positioning the presentation in the state of the art| Yes | No |
+|take-home: The last slide contains a good and concise take-home message | Yes | No |
+|engagement: The speakers engage with the audience | Yes | No  |
+|humour: The speakers are fun, have humour or the protocol contains an Easter egg | Yes | No |
+|readable slides: The slides do not have too much text  | Yes | No |
+
+Bonus points:
+| Criterion | Description  |
+| --------- | ------------ |
+| verification | the procotol contains some verification beyond testing (mutation testing with Gambit, formal verification) |
+| perfect testing | the protocol has 100% statement coverage |
+| fuzzing/symbolic execution | the protocol has a harness for fuzzing or [symbolic execution](https://twitter.com/trailofbits/status/1223386823084384256) |
+| outreach | the students outreach to the crypto world about their protocol |
+| real-world | the protocol is deployed on mainnet and IPFS |
+| DApp/UX | the protocol contains user interface application |
 
 
-To pass, you must have the mandatory parts and at least C "yes".
+To pass, you must have the mandatory parts and at least 9 "yes".
 
 
 ## Essays

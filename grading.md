@@ -89,7 +89,9 @@ To pass, you must have at least 8 "yes".
 Concept: As a group of two, you scope, design, and implement a smart contract protocol. You choose a smart contract language of your choice. A DApp/UX is welcome but not mandatory. You present the protocol for 30 minutes (15 min presentation + 15 min questions) during the Smart Contract Grand Oral on December 18, 2023. 
 
 The protocol proposal must be done through a pull-request before Nov 15, sunset in Stockholm.
- 
+
+The best protocols will be invited for a presentation in the Decentralized Bootcamp Stockcholm meetup in January.
+
 | Criterion | Yes | No | 
 | --------- | --- |----|
 |github: The protocol is hosted on GitHub, publicly available. The GitHub repository must have a root README file. | Mandatory | - | 

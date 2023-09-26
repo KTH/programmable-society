@@ -30,7 +30,7 @@ Intro: Course introduction (Teaching philosophy, [Flipped classroom](https://en.
 
 ### 6. Dec 8 2023
 * [blockchain infrastructure](https://github.com/KTH/programmable-society/issues/6)
-
+* [blockchain monitoring \& Analytics](https://github.com/KTH/programmable-society/issues/29)
 ### 7. Dec 13 2023
 
 * [digital identities](https://github.com/KTH/programmable-society/issues/11)

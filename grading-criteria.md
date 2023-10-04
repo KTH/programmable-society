@@ -1,6 +1,6 @@
 # Examination rules of "Programmable Society" (WIP)
 
-The course has project-based examination, where the student has to perform several tasks.
+The course has project-based examination, where the student has to perform a number of tasks.
 
 * To pass the course, the student has to complete and pass between 3 mandatory tasks:
   * presentation (mandatory)

@@ -92,8 +92,8 @@ The protocol proposal must be done through a pull-request before Nov 15, sunset 
 
 The best protocols will be invited for a presentation in the Decentralized Bootcamp Stockcholm meetup in January.
 
-| Criterion | Yes | No | 
-| --------- | --- |----|
+|                                             | Yes | No | 
+|-------------------------------------------- | ----|----|
 |github: The protocol is hosted on GitHub, publicly available. The GitHub repository must have a root README file. | Mandatory | - | 
 |tested: The protocol can be automatically executed from a test suite | Mandatory | - | 
 |documented: The usage of the protocol is well documented | Mandatory | - | 

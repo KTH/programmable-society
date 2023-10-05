@@ -93,6 +93,7 @@ The protocol proposal must be done through a pull-request before Nov 15, sunset 
 
 The best protocols will be invited for a presentation in the Decentralized Bootcamp Stockcholm meetup in January.
 
+
 |                                             | Yes | No | 
 |-------------------------------------------- | ----|----|
 |github: The protocol is hosted on GitHub, publicly available. The GitHub repository must have a root README file. | Mandatory | - | 
@@ -111,16 +112,12 @@ The best protocols will be invited for a presentation in the Decentralized Bootc
 |engagement: The speakers engage with the audience | Yes | No  |
 |humour: The speakers are fun, have humour or the protocol contains an Easter egg | Yes | No |
 |readable slides: The slides do not have too much text  | Yes | No |
-
-Bonus points:
-| Criterion | Description  |
-| --------- | ------------ |
-| verification | the procotol contains some verification beyond testing (mutation testing with Gambit, formal verification) |
-| perfect testing | the protocol has 100% statement coverage |
-| fuzzing/symbolic execution | the protocol has a harness for fuzzing or [symbolic execution](https://twitter.com/trailofbits/status/1223386823084384256) |
-| outreach | the students outreach to the crypto world about their protocol |
-| real-world | the protocol is deployed on mainnet and IPFS |
-| DApp/UX | the protocol contains user interface application |
+|(BONUS) verification: the procotol contains some verification beyond testing (mutation testing with Gambit, formal verification) | Yes | No |
+|(BONUS) perfect testing: the protocol has 100% statement coverage | Yes | No |
+|(BONUS) fuzzing/symbolic execution: the protocol has a harness for fuzzing or [symbolic execution](https://twitter.com/trailofbits/status/1223386823084384256) | Yes | No |
+|(BONUS) outreach: the students outreach to the crypto world about their protocol | Yes | No |
+|(BONUS) real-world: the protocol is deployed on mainnet and IPFS | Yes | No |
+|(BONUS) DApp/UX: the protocol contains user interface application | Yes | No |
 
 
 To pass, you must have the mandatory parts and at least 9 "yes".

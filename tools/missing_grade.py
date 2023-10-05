@@ -12,20 +12,19 @@ WEEK = ''
 DEADLINE = 0
 CANVAS_TOKEN = ''
 CANVAS_URL = "https://canvas.kth.se"
-CANVAS_COURSE_ID = 38951 # 2023 edition
+CANVAS_COURSE_ID = 43069 # 2023 edition
 CONTRIBUTION_PATH = '../contributions'
 
 
 # Mapping from github task name to canvas group set id
 def task_to_set(task_name, canvas_set):
     mapping = {
-        #"course-automation": canvas_set["Course automation"],
         "demo": canvas_set["Demos"],
         "essay": canvas_set["Essays"],
-        "executable-tutorial": canvas_set["Executable Tutorials"],
         "feedback": canvas_set["Feedback"],
         "opensource": canvas_set["Open-source contributions"],
         "presentation": canvas_set["Presentations"],
+        "smart-contract-protocol": canvas_set["Smart Contract Protocol"]
     }
     return mapping.get(task_name, Exception("Groupset mapping"))
 
@@ -141,18 +140,13 @@ def filter_deadline_groups(groups, deadline):
 def check_all_assigned():
     l = []    
         #mapping = {
-        #"course-automation": canvas_set["Course automation"],
         #"demo": canvas_set["Demos"],
         #"essay": canvas_set["Essays"],
-        #"executable-tutorial": canvas_set["Executable Tutorials"],
         #"feedback": canvas_set["Feedback"],
         #"open-source": canvas_set["Open-source contributions"],
-        #"presentation": canvas_set["Presentations"],    }
-    for i in get_sub_directory(CONTRIBUTION_PATH+"/"+"course-automation").values():
-        l.append(i['path'])        
+        #"presentation": canvas_set["Presentations"],
+        #"smart-contract-protocol": canvas_set["Smart Contract Protocol"]    }
     for i in get_sub_directory(CONTRIBUTION_PATH+"/"+"essay").values():
-        l.append(i['path'])        
-    for i in get_sub_directory(CONTRIBUTION_PATH+"/"+"executable-tutorial").values():
         l.append(i['path'])        
     for i in get_sub_directory(CONTRIBUTION_PATH+"/"+"feedback").values():
         l.append(i['path'])        
@@ -166,7 +160,7 @@ def check_all_assigned():
     #for i in get_sub_directory(CONTRIBUTION_PATH+"/"+"demo").values():
         #for j in get_sub_directory(i['path']).values():
             #l.append(j['path'])  
-    
+
     # remove "../"
     l = ["https://github.com/KTH/programmable-society/tree/"+datetime.today().strftime("%Y")+"/"+x[3:] for x in l]
     

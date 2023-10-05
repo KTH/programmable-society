@@ -52,5 +52,5 @@ _Description of your proposal_
 
 **Relevance**
 
-_Motivate the relevance of your proposal with respect to DevOps_
+_Motivate the relevance of your proposal with respect to Smart Contracts_
 

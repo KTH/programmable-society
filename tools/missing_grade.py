@@ -74,7 +74,7 @@ def check_group_grading(groups, id_assignment):
                                                                                   members[member])
             r = requests.get(canvas_url, headers={'Authorization': 'Bearer ' + CANVAS_TOKEN})
             
-            url = "https://github.com/KTH/devops-course/tree/"+datetime.today().strftime("%Y")+"/contributions/"+TASK+"/"+group
+            url = "https://github.com/KTH/programmable-society/tree/"+datetime.today().strftime("%Y")+"/contributions/"+TASK+"/"+group
 
             if json.loads(r.content)["entered_grade"] == "incomplete":
                     print(url," REPEAT assigned to grader",grader(url))
@@ -168,7 +168,7 @@ def check_all_assigned():
             #l.append(j['path'])  
     
     # remove "../"
-    l = ["https://github.com/KTH/devops-course/tree/"+datetime.today().strftime("%Y")+"/"+x[3:] for x in l]
+    l = ["https://github.com/KTH/programmable-society/tree/"+datetime.today().strftime("%Y")+"/"+x[3:] for x in l]
     
     
     #print(l)

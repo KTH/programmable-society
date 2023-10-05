@@ -207,7 +207,7 @@ def handle_args(argv):
 
 def print_help_info():
     print('')
-    print('DD2482 Student Submissions Statistic Tool')
+    print('DD2485 Student Submissions Statistic Tool')
     print('    stat_submissions.py -p <submissions_folder_path>')
     print('or: stat_submissions.py --path=<submissions_folder_path>')
     print('')

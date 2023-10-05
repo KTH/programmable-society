@@ -38,7 +38,7 @@ The course has project-based examination, where the student has to perform a num
 ## Presentations (mandatory)
 
 
-The concept: The students prepare a 7 minute presentation on a topic that is relevant to DevOps. All students in a presentation must be present and speak in a balanced manner.
+The concept: The students prepare a 7 minute presentation on a topic that is relevant to Smart Contracts. All students in a presentation must be present and speak in a balanced manner.
 
 
 |                                             | Yes | No |
@@ -64,13 +64,13 @@ To pass, you need at least 8 "yes".
 ## Demos (mandatory)
 
 
-The concept: Students prepare a demonstration involving DevOps technology, to be performed during the lecture. For example, a demo typically involves multiple virtual machines, likely deployed in the cloud. A demonstration is scripted, prepared and lasts 6:30-7:30 minutes.
+The concept: Students prepare a demonstration involving Smart Contract technology, to be performed during the lecture. For example, a demo typically involves multiple virtual machines, likely deployed in the cloud. A demonstration is scripted, prepared and lasts 6:30-7:30 minutes.
 
 
 |                                             | Yes | No | 
 |-------------------------------------------- | ----|----|
 |timing: The demo lasts between 6:30-7:30 minutes (hard limit)  | Mandatory | - |
-|relevant: The demonstration is clearly motivated (why it matters for Devops?) | Yes | No | 
+|relevant: The demonstration is clearly motivated (why it matters for Smart Contracts) | Yes | No | 
 |narrative: The demo contains a good narrative | Yes | No | 
 |difficulty: The demonstration is difficult to do | Yes | No |
 |speech: The demo is accompanied by a clearly and structured speech | Yes | no |
@@ -133,7 +133,7 @@ The concept: The students write an essay on a topic relevant to the course.
 |-------------------------------------------- | ----|----|
 | format: The essay is in PDF | Mandatory | - | 
 | length: The essay length is between 2400-2600 words, incl. references (hard limit)  | Mandatory | - |
-| relevant: The essay addresses a topic that is relevant for DevOps | Mandatory | - | 
+| relevant: The essay addresses a topic that is relevant for Smart Contracts | Mandatory | - | 
 | title: The essay has a good and focused title | Mandatory | - | 
 | generative AI: the essay contains "I/We certify that generative AI, incl. ChatGPT, has not been used to write this essay. Using generative AI without permission is considered academic misconduct."| Mandatory | - | 
 | well-structured: The essay is well structured | Yes | No | 
@@ -156,9 +156,9 @@ To pass, you need at least 8 "yes".
 ## Open-source contributions
 
 
-The concept: you contribute to one open-source project related to DevOps. Yout get at least one merged pull-request.
+The concept: you contribute to one open-source project related to Smart Contracts. Yout get at least one merged pull-request.
 
-Criteria for the selection of the open-source project: 1) The project is related to DevOps 2) The project has more than 100 Commits 3) The project has an active community on GitHub.
+Criteria for the selection of the open-source project: 1) The project is related to Smart Contracts 2) The project has more than 100 Commits 3) The project has an active community on GitHub.
 
 
 |                                             | Yes | No | 

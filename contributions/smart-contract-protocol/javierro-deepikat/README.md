@@ -15,7 +15,11 @@ _The title of your proposal_
   - Javier Ron Arteaga (javierro@kth.se)
   - Deepika Tiwari (deepikat@kth.se)
 
-- Smart Contract Protocol
+## Deadline
+- Task 1
+
+## Category
+- ASDFASDF
 
 ## Description
 

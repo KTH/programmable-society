@@ -41,7 +41,7 @@ _Category of your proposal_
 _Pick one of the following:_
 - Demo
 - Presentation
-- Executable tutorial
+- Smart contract protocol
 - Essay
 - Open source
 - Feedback

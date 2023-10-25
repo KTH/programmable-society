@@ -6,45 +6,44 @@ This is the home of course "Programmable Society" at KTH Royal Institute of Tech
 
 ## Agenda
 
-### 1. Nov 1 2023
+Reference schedule is at <https://www.kth.se/social/course/DD2485/>
+
+### 1. Nov 1 2023 Introduction
 
 Intro: Course introduction (Teaching philosophy, [Flipped classroom](https://en.wikipedia.org/wiki/Flipped_classroom), Expectations, Team, Agenda, [Grading](https://github.com/KTH/programmable-society/blob/main/grading.md), Communication, [Master's theses and Research](https://www.monperrus.net/martin/topics)). Topic introduction.
 
-### 2. Nov 8 2023
+### 2. Nov 8 2023 Languages
 
 * [smart contract languages](https://github.com/KTH/programmable-society/issues/1)
 
-### 3. Nov 15 2023
+### 3. Nov 15 2023 DeFi
 
 * [smart contracts for finance (Defi)](https://github.com/KTH/programmable-society/issues/3)
 
-### 4. Nov 22 2023
+### 4. Nov 22 2023 Engineering
 
 * [tool support for smart contracts](https://github.com/KTH/programmable-society/issues/2)
 * [secure smart contracts](https://github.com/KTH/programmable-society/issues/7), [verification](https://github.com/KTH/programmable-society/issues/9)
 * [smart contract libraries](https://github.com/KTH/programmable-society/issues/10)
 
-### 5. Nov 29 2023
+### 5. Nov 29 2023 Art
 
 * [smart contracts for art (NFT)](https://github.com/KTH/programmable-society/issues/4)
 
-### 6. Dec 8 2023
+### 6. Dec 8 2023 Infrastructure
 * [blockchain infrastructure](https://github.com/KTH/programmable-society/issues/6)
 * [blockchain monitoring \& Analytics](https://github.com/KTH/programmable-society/issues/29)
-### 7. Dec 13 2023
+
+### 7. Dec 13 2023 DAO
 
 * [digital identities](https://github.com/KTH/programmable-society/issues/11)
 * [smart contracts for governance (DAO)](https://github.com/KTH/programmable-society/issues/5)
 
-###  Topics for all weeks:
+###  Topics for all weeks
 
 * [philosophy and ethics of the blockchain paradigm](https://github.com/KTH/programmable-society/issues/8)
 * [empirical knowledge about smart contracts](https://github.com/KTH/programmable-society/issues/21)
   
 ## Format
 
-Teaching style is [flipped classroom](https://en.wikipedia.org/wiki/Flipped_classroom), grading is project-based.
-
-## Examination
-
-See <https://github.com/KTH/programmable-society/blob/main/grading.md>
+Teaching style is [flipped classroom](https://en.wikipedia.org/wiki/Flipped_classroom), grading is project-based, see examination rules at <https://github.com/KTH/programmable-society/blob/main/grading.md>

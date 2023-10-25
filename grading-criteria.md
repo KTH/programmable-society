@@ -1,38 +1,35 @@
-# Examination rules of "Programmable Society" (WIP)
+# Examination rules of "Programmable Society"
 
-The course has project-based examination, where the student has to perform a number of tasks.
+The course has a project-based examination, where the student has to perform a number of tasks.
 
 * To pass the course, the student has to complete and pass between 3 mandatory tasks:
   * presentation (mandatory)
   * demo (mandatory)
   * smart contract protocol development (mandatory)
-* To get a grade better than E, the student can do optional tasks. The grading criteria below explain how to pass each task category.
-  * essay
-  * contribution to open-source
-  * feedback
-  * questions
-* The same student cannot choose the same topic for two different tasks. 
-* Important dates:
-  * Deadline for presentations and demos: the day and time they are given in person
-  * Deadline for essay / open-source: [Britney Spears birthday](https://en.wikipedia.org/wiki/Britney_Spears), 17h Stockholm time
-  * Deadline for feedback: 48 hours after go from original authors
-  * Grand oral: [Brad Pitt](https://en.wikipedia.org/wiki/Brad_Pitt)'s birthday
-  * Deadline for repeated tasks (all): **Jan 8 2024, 17h Stockholm time**.
-  * The deadlines are strict and cannot be extended. Not meeting a deadline means failing the task / the repetition.
-
+* To get a grade better than E, the student can do optional tasks in the following categories
+  * essay (optional)
+  * contribution to open-source (optional)
+  * feedback (optional)
+  * questions (optional)
 * Final grading scheme
   * A: 7 completed tasks
   * B: 6 completed tasks 
   * C: 5 completed tasks 
   * D: 4 completed tasks 
   * E: 3 completed tasks (excluding feedback)
-* Group work is encouraged (max 2 persons) but you cannot be with the same person for more than 2 projects. You can work alone for one or at most two projects.
+* The same student cannot choose the same topic for two different tasks. 
+* Important dates:
+  * Deadline for presentations and demos: the day and time they are given in person
+  * Deadline for essay / open-source: [Britney Spears birthday](https://en.wikipedia.org/wiki/Britney_Spears), Dec 2 2023, 17h Stockholm time
+  * Deadline for feedback: 48 hours after submission from the original authors
+  * Grand oral: [Brad Pitt](https://en.wikipedia.org/wiki/Brad_Pitt)'s birthday, Dec 18 2023
+  * Deadline for repeated tasks (all): **Jan 8 2024, 17h Stockholm time**.
+  * The deadlines are strict and cannot be extended. Not meeting a deadline means failing the task / the repetition.
+* Group work is encouraged for smart contract development (max 2 persons).
 * A failed task requires to pass it again at the end of the course (repeat), based on the feedback from the failure. A task can only be repeated once.
-* If the whole course is failed, no grades are kept if the student registers again to the course the year after. 
+* If the whole course is failed, no grades are kept if the student registers again to the course later on. 
 * After a proposal has been merged, the topic of that proposal cannot be changed.
-* Group Rules
-  * When you send a pull request for registration, please follow the name convention of using email addresses of two members to create the folder: email-email.
-  * We recommend 2 students. Three is also possible for ambitious essays, demos or contribution to open-source.
+* When you send a pull request for registration, please follow the name convention of using email addresses to create the folder: `kthlogin` or `kthlogin-kthlogin` for group registration.
 
 
 ## Presentations (mandatory)

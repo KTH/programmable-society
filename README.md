@@ -10,7 +10,7 @@ Reference schedule is at <https://www.kth.se/social/course/DD2485/>
 
 ### 1. Nov 1 2023 Introduction
 
-Intro: Course introduction (Teaching philosophy, [Flipped classroom](https://en.wikipedia.org/wiki/Flipped_classroom), Expectations, Team, Agenda, [Grading](https://github.com/KTH/programmable-society/blob/main/grading.md), Communication, [Master's theses and Research](https://www.monperrus.net/martin/topics)). Topic introduction.
+Intro: Course introduction (Teaching philosophy, [Flipped classroom](https://en.wikipedia.org/wiki/Flipped_classroom), Expectations, Team, Agenda, Grading, Communication, [Master's theses and Research](https://www.monperrus.net/martin/topics)). Topic introduction.
 
 ### 2. Nov 8 2023 Languages
 

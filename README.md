@@ -48,4 +48,4 @@ Intro: Course introduction (Teaching philosophy, [Flipped classroom](https://en.
   
 ## Format
 
-Teaching style is [flipped classroom](https://en.wikipedia.org/wiki/Flipped_classroom), grading is project-based, see examination rules at <https://github.com/KTH/programmable-society/blob/main/grading.md>
+Teaching style is [flipped classroom](https://en.wikipedia.org/wiki/Flipped_classroom), grading is project-based, see examination rules at <https://github.com/KTH/programmable-society/blob/2023/grading-criteria.md>

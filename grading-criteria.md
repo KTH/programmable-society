@@ -23,7 +23,7 @@ The course has a project-based examination, where the student has to perform a n
   * Deadline for essay: [Britney Spears birthday](https://en.wikipedia.org/wiki/Britney_Spears), Dec 2 2023, 17h Stockholm time
   * Deadline for feedback: 48 hours after submission from the original authors
   * Grand oral: [Brad Pitt](https://en.wikipedia.org/wiki/Brad_Pitt)'s birthday, Dec 18 2023
-  * Deadline for open-source: Jan 8 2024, 17h Stockholm time (if repeated Jan 15 2024)
+  * Deadline for open-source: [David Bowie](https://en.wikipedia.org/wiki/David_Bowie)'s birthday, Jan 8 2024, 17h Stockholm time (if repeated Jan 15 2024)
   * Deadline for repeated tasks (all): **Jan 8 2024, 17h Stockholm time**.
   * The deadlines are strict and cannot be extended. Not meeting a deadline means failing the task / the repetition.
 * Group work is encouraged for smart contract development (max 2 persons).

@@ -62,7 +62,7 @@ To pass, you need at least 8 "yes".
 ## Demos (mandatory)
 
 
-The concept: Students prepare a demonstration involving Smart Contract technology, to be performed during the lecture. For example, a demo typically involves multiple virtual machines, likely deployed in the cloud. A demonstration is scripted, prepared and lasts 6:30-7:30 minutes.
+The concept: Students prepare a demonstration involving Smart Contract technology, to be performed during the lecture. For example, a demo typically involves multiple virtual machines, likely deployed in the cloud (some resources [here](https://github.com/KTH/devops-course/issues/25)). A demonstration is scripted, prepared and lasts 6:30-7:30 minutes.
 
 
 |                                             | Yes | No | 

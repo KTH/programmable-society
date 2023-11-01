@@ -4,6 +4,8 @@ This is the home of course "Programmable Society" at KTH Royal Institute of Tech
 
 [Martin Monperrus (monperrus.eth)](http://www.monperrus.net/martin/) (Professor), [Benoit Baudry](https://softwarediversity.eu/) (Professor), [Javier Ron](https://www.kth.se/profile/javierro?l=en) (TA), [Deepika Tiwari](https://www.kth.se/profile/deepikat) (TA), [Mojtaba Eshghie](https://www.kth.se/profile/eshghie) (TA), [Javier Cabrera](https://www.jacarte.me)(TA)
 
+All communications happen on this repo as issue / PR, or by email to dd2485@kth.se.
+
 ## Agenda
 
 Reference schedule is at <https://www.kth.se/social/course/DD2485/>

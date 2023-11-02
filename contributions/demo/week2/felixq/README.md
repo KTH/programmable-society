@@ -1,6 +1,8 @@
 # Assignment Proposal
 
-## Simple smart contracts with SmartPy
+## Title
+
+* Simple smart contracts with SmartPy
 
 ## Names and KTH ID
 

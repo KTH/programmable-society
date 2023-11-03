@@ -8,7 +8,7 @@ All communications happen on this repo as issue / PR, or by email to dd2485@kth.
 
 ## Agenda
 
-Reference schedule is at <https://www.kth.se/social/course/DD2485/>
+Reference schedule is at <https://www.kth.se/social/course/DD2485/>. The lab queue is [DD2485](https://queue.csc.kth.se/Queue/DD2485).
 
 ### 1. Nov 1 2023 Introduction
 

@@ -36,7 +36,7 @@ The course has a project-based examination, where the student has to perform a n
 ## Presentations (mandatory)
 
 
-The concept: The students prepare a 7 minute presentation on a topic that is relevant to Smart Contracts. All students in a presentation must be present and speak in a balanced manner.
+The concept: The student prepares a 7 minute presentation on a topic that is relevant to Smart Contracts. The student must be present.
 
 
 |                                             | Yes | No |
@@ -57,12 +57,12 @@ The concept: The students prepare a 7 minute presentation on a topic that is rel
 |illustration: The slides contain nice illustrations  | Yes | No |
 
 
-To pass, you need at least 8 "yes".
+To pass, the student need at least 8 "yes".
 
 ## Demos (mandatory)
 
 
-The concept: Students prepare a demonstration involving Smart Contract technology, to be performed during the lecture. For example, a demo typically involves multiple virtual machines, likely deployed in the cloud (some resources [here](https://github.com/KTH/devops-course/issues/25)). A demonstration is scripted, prepared and lasts 6:30-7:30 minutes.
+The concept: A student prepares a demonstration involving Smart Contract technology, to be performed during the lecture. For example, a demo typically involves multiple virtual machines, likely deployed in the cloud (some resources [here](https://github.com/KTH/devops-course/issues/25)). A demonstration is scripted, prepared and lasts 6:30-7:30 minutes.
 
 
 |                                             | Yes | No | 
@@ -80,7 +80,7 @@ The concept: Students prepare a demonstration involving Smart Contract technolog
 |take-home: The demo includes a clear and visible take-home message | Yes | No | 
 
 
-To pass, you must have at least 8 "yes".
+To pass, the student must have at least 8 "yes".
 
 ## Smart Contract Protocol (mandatory)
 
@@ -124,7 +124,7 @@ To pass, you must have the mandatory parts and at least 9 "yes".
 ## Essays
 
 
-The concept: The students write an essay on a topic relevant to the course.
+The concept: The student writes an essay on a topic relevant to the course.
 
 
 |                                             | Yes | No |
@@ -148,13 +148,13 @@ The concept: The students write an essay on a topic relevant to the course.
 | reflection: The essay contains a reflective part  | Yes | No |
 
 
-To pass, you need at least 8 "yes".
+To pass, the student needs at least 8 "yes".
 
 
 ## Open-source contributions
 
 
-The concept: you contribute to one open-source project related to Smart Contracts. Yout get at least one merged pull-request.
+The concept: the student contributes to one open-source project related to Smart Contracts. The student gets at least one merged pull-request.
 
 Criteria for the selection of the open-source project: 1) The project is related to Smart Contracts 2) The project has more than 100 Commits 3) The project has an active community on GitHub.
 
@@ -166,12 +166,12 @@ Criteria for the selection of the open-source project: 1) The project is related
 |merge: The contribution is merged in the main branch of the target project.| Yes | No | 
 
 
-To pass, you must have 2 yes.
+To pass, the student must have 2 yes.
 
 ## Feedback
 
 
-The concept: you provide constructive and timely feeback about one task from categories "essay" and "executable tutorial".
+The concept: the student provides constructive and timely feeback about one task from categories "essay" and "executable tutorial".
 The feedback is provided in a written manner as a well-structured comment on the PR of the task.
 
 
@@ -186,5 +186,5 @@ The feedback is provided in a written manner as a well-structured comment on the
 |pointers: the feedback contains valuable pointers to additional material | Yes | No |
 
 
-To pass, you must have at least 4 "yes".
+To pass, the student must have at least 4 "yes".
 

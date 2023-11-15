@@ -23,13 +23,14 @@ This project aims to implement smart contracts for the secondary housing rental 
 
 Our objectives are to enable users to:
 
-Find apartments available for rent.
-Create smart contracts between renters and lenders.
-Facilitate payment transactions between renters and lenders.
-Provide insurance for the apartment and its furnishings during the rental term.
+- Find apartments available for rent (if we have time to build frontend).
+- Create smart contracts between renters and lenders.
+- Facilitate payment transactions between renters and lenders.
+- Provide insurance for the apartment and its furnishings during the rental term.
+
 Existing tools (such as Blocket & Qasa) offer similar services, but our approach aims to completely eliminate centralization, thereby removing the additional fees imposed by these third-party intermediaries.
 
-For the development of this project, we will build the smart contract on the Ethereum blockchain using Solidity and utilize Hardhat for testing purposes. Additionally, we plan to use Web3.js for the front-end application and Mocha for front-end testing.
+For the development of this project, we will build the smart contract on the Ethereum blockchain using Solidity and utilize Hardhat for testing purposes. Additionally if we have time, we plan to use for example Web3.js for the front-end application and Mocha for front-end testing.
 
 **Relevance**
 This project is highly relevant as it involves the development of smart contracts, a pivotal element in modern decentralized applications. The current centralized rental market is burdened with high fees and the risk of scams. By leveraging blockchain technology, we aim to significantly reduce these issues, offering a more secure, transparent, and cost-effective solution for the secondary rental market.

@@ -10,7 +10,7 @@ _ZKP Computation Verification: Scaling Ethereum using Zero-Knowledge Proofs_
 
 ## Deadline
 
-- Dec 2, 2023
+- Task 1
 
 ## Category
 

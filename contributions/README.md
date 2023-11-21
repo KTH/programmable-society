@@ -7,7 +7,7 @@
 * Presentation: [Vyper: Comprehensive and secure language for smart contracts](https://github.com/KTH/programmable-society/pull/42), Oskar Svanström.
 
 ## Week 3
-* Presentaion: [Centrifuge: First protocol to bring real-world assets onchain](https://github.com/KTH/programmable-society/pull/48), Edvin Baggman
+* Presentation: [Centrifuge: First protocol to bring real-world assets onchain](https://github.com/KTH/programmable-society/pull/48), Edvin Baggman
 * Demo:[Creating your own cryptocurrency token with Solidity on the testnet](https://github.com/KTH/programmable-society/pull/50), Alexander Gustavsson
 
 ## Week 4

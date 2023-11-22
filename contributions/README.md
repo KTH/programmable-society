@@ -12,9 +12,9 @@
 
 ## Week 4
 * Presentation: [Randomness in Smart Contracts: Achieving Tamperproof Randomness in a Deterministic Setting](https://github.com/KTH/programmable-society/pull/49), Vivi Andersson
-* Demo: [Foundry the complete diligent chain builder](https://github.com/KTH/programmable-society/pull/55), Iosif Koen
 * Demo: [Showcasing Mythril: How to find vulnerabilites in your smart contract code?](https://github.com/KTH/programmable-society/pull/57), Oskar Svanström
 * Demo: [Hardhat: Building, testing, deploying, and debugging smart contracts on the Ethereum blockchain](https://github.com/KTH/programmable-society/pull/61), Filippa Leuckfeld
 * Presentation: [Modern Problems Require Modern Solutions: MPCs and Multisigs](https://github.com/KTH/programmable-society/pull/63), Robert Scholz
-* Demo: [Fuzz testing for smart contracts](https://github.com/KTH/programmable-society/pull/64), Fabian Zeiher
 * Presentation: [Re-entrancy vulnerabilities & techniques for protecting smart contracts against them](https://github.com/KTH/programmable-society/pull/67), Dina Lerjevik
+* Demo: [Foundry the complete diligent chain builder](https://github.com/KTH/programmable-society/pull/55), Iosif Koen
+* Demo: [Fuzz testing for smart contracts](https://github.com/KTH/programmable-society/pull/64), Fabian Zeiher

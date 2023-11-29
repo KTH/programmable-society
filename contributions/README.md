@@ -18,3 +18,9 @@
 * Presentation: [Re-entrancy vulnerabilities & techniques for protecting smart contracts against them](https://github.com/KTH/programmable-society/pull/67), Dina Lerjevik
 * Demo: [Foundry the complete diligent chain builder](https://github.com/KTH/programmable-society/pull/55), Iosif Koen
 * Demo: [Fuzz testing for smart contracts](https://github.com/KTH/programmable-society/pull/64), Fabian Zeiher
+
+## Week 5
+* [Creating an NFT, from an empty canvas to NFT using solidity](https://github.com/KTH/programmable-society/tree/2023/contributions/demo/week5/chrvik) Christofer Vikström (chrvik@kth.se)
+* [Using Generative AI to create NFT collections on Polygon with OpenSea Studio](https://github.com/KTH/programmable-society/tree/2023/contributions/demo/week5/pierrelf) Pierre Le Fevre (pierrelf@kth.se)
+* [NFTs Unchained: From Central Servers to IPFS](https://github.com/KTH/programmable-society/tree/2023/contributions/presentation/week5/felixq) Felix Qvarfordt (felixq@kth.se)
+

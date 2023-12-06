@@ -1,7 +1,7 @@
 # Assignment Proposal
 
 ## Title 
-_Digital Passport: Simplifing VISA processes using Blockchain Technology_
+_Digital Passport - Better Security and Privacy with Blockchain Technology_
 
 # Names and KTH ID
 - Fabian Zeiher (zeiher@kth.se)

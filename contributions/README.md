@@ -28,4 +28,8 @@
 * Presentation: [Comparative Analysis of Two Consensus Mechanisms: Proof of Stake (PoS) vs. Proof of Work (PoW)](https://github.com/KTH/programmable-society/tree/2023/contributions/presentation/week6/efle) Filippa Leuckfeld.
 * Demo: [Blockchain monitoring, incident response with Open zeppelin defender](https://github.com/KTH/programmable-society/tree/2023/contributions/demo/week6/baggman) Edvin Baggman.
 * Demo: [Private PoA Ethereum Blockchain Network](https://github.com/KTH/programmable-society/tree/2023/contributions/demo/week6/vivia) Vivi Andersson.
+* Demo: [Showcasing Alchemy Notify API & NFT API](https://github.com/KTH/programmable-society/tree/2023/contributions/demo/week6/lerjevik) Dina Lerjevik.
 
+## Week 7
+* Demo: [E-Voting with Solidity](https://github.com/KTH/programmable-society/tree/2023/contributions/demo/week7) Robert Scholz.
+* Presentation: [Voting using the blockchain, power to the people](https://github.com/KTH/programmable-society/tree/2023/contributions/presentation/week7/algust) Alexander Gustavsson.

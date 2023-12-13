@@ -20,7 +20,7 @@ The course has a project-based examination, where the student has to perform a n
 * The same student cannot choose the same topic for two different tasks. 
 * Important dates:
   * Deadline for presentations and demos: the day and time they are given in person
-  * Deadline for essay: [Britney Spears birthday](https://en.wikipedia.org/wiki/Britney_Spears), Dec 2 2023, 17h Stockholm time
+  * Deadline for essay: [Emmanuelle Charpentier's birthday](https://en.wikipedia.org/wiki/Emmanuelle_Charpentier), Dec 11 2023, 17h Stockholm time
   * Deadline for feedback: 48 hours after submission from the original authors
   * Grand oral: [Brad Pitt](https://en.wikipedia.org/wiki/Brad_Pitt)'s birthday, Dec 18 2023
   * Deadline for open-source: [David Bowie](https://en.wikipedia.org/wiki/David_Bowie)'s birthday, Jan 8 2024, 17h Stockholm time (if repeated Jan 15 2024)

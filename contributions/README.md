@@ -24,3 +24,12 @@
 * Demo: [Using Generative AI to create NFT collections on Polygon with OpenSea Studio](https://github.com/KTH/programmable-society/tree/2023/contributions/demo/week5/pierrelf) Pierre Le Fevre (pierrelf@kth.se)
 * Presentation: [NFTs Unchained: From Central Servers to IPFS](https://github.com/KTH/programmable-society/tree/2023/contributions/presentation/week5/felixq) Felix Qvarfordt (felixq@kth.se)
 
+## Week 6
+* Presentation: [Comparative Analysis of Two Consensus Mechanisms: Proof of Stake (PoS) vs. Proof of Work (PoW)](https://github.com/KTH/programmable-society/tree/2023/contributions/presentation/week6/efle) Filippa Leuckfeld.
+* Demo: [Blockchain monitoring, incident response with Open zeppelin defender](https://github.com/KTH/programmable-society/tree/2023/contributions/demo/week6/baggman) Edvin Baggman.
+* Demo: [Private PoA Ethereum Blockchain Network](https://github.com/KTH/programmable-society/tree/2023/contributions/demo/week6/vivia) Vivi Andersson.
+* Demo: [Showcasing Alchemy Notify API & NFT API](https://github.com/KTH/programmable-society/tree/2023/contributions/demo/week6/lerjevik) Dina Lerjevik.
+
+## Week 7
+* Demo: [E-Voting with Solidity](https://github.com/KTH/programmable-society/tree/2023/contributions/demo/week7) Robert Scholz.
+* Presentation: [Voting using the blockchain, power to the people](https://github.com/KTH/programmable-society/tree/2023/contributions/presentation/week7/algust) Alexander Gustavsson.

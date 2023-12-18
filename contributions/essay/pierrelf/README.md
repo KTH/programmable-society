@@ -17,3 +17,5 @@ This essay will explore the complex legal landscape that cryptocurrency exchange
 
 **Relevance**
 Understanding the legal difficulties of running a cryptocurrency exchange is crucial in today's rapidly evolving digital currency landscape, and unclear legal actions by regulatory bodies like the SEC. [Example: SEC charges Kraken for operating as an unregistered securities exchange](https://news.ycombinator.com/item?id=38356361)
+
+Essay available [here](./pierrelf-essay.pdf)

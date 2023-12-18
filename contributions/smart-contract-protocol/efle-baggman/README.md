@@ -32,5 +32,9 @@ Existing tools (such as Blocket & Qasa) offer similar services, but our approach
 
 For the development of this project, we will build the smart contract on the Ethereum blockchain using Solidity and utilize Hardhat for testing purposes. Additionally if we have time, we plan to use for example Web3.js for the front-end application and Mocha for front-end testing.
 
+[LINK TO HABITATHASH](https://github.com/HabitatHash/HabitatHash)
+
+[LINK TO SLIDES](https://docs.google.com/presentation/d/1vrOBZHqTfVpO2GNUsTXUTXZnhFfxIOzK59eviZC9n1o/edit?usp=sharing)
+
 **Relevance**
 This project is highly relevant as it involves the development of smart contracts, a pivotal element in modern decentralized applications. The current centralized rental market is burdened with high fees and the risk of scams. By leveraging blockchain technology, we aim to significantly reduce these issues, offering a more secure, transparent, and cost-effective solution for the secondary rental market.

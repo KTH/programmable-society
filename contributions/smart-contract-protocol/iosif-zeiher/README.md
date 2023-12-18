@@ -19,7 +19,7 @@ Macking safety data transparent and accessible
 
 ## Description
 
-### Submission
+**Submission**
 
 Slides: [ItemBlocks Presentation](./ItemBlocksPresentation.pdf)
 

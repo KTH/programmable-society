@@ -24,3 +24,5 @@ Our project idea revolves around placing the grading system for this course, i.e
 **Relevance**
 
 The aim of the project is to explore the field of smart contracts and to build something that will be useful for future course iterations. We believe that this will be a great learning experience for us, as well as an opportunity for students in future course iterations to learn and get inspired.
+
+Link to project: https://github.com/lerjevik/grading-for-programmable-society 

@@ -19,6 +19,12 @@ Macking safety data transparent and accessible
 
 ## Description
 
+**Submission**
+
+Slides: [ItemBlocks Presentation](./ItemBlocksPresentation.pdf)
+
+Github Repository: [ItemBlocks Github Repository](https://github.com/cetceeve/ItemBlocks)
+
 We plan to create a dApp that allows users to access data about safety critical processes.
 For example, information about food safety (lab results), construction safety and drug tests.
 While this data exists now it is not easily accessible to the general public.

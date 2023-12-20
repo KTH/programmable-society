@@ -20,30 +20,8 @@ The author uses some acronyms that he needs to explain clearly what they stand f
 - I would like to see some graphs showing some of the cases the authors present.
 - See some screenshots or suggestions from well-known newspapers and articles that illustrate the topic of the essay. For example, **Forbes** has a fascinating article about this topic. That I suggest it is worth reading [Binance On Deathbed, And Crypto Is Birthed](https://www.forbes.com/sites/digital-assets/2023/11/26/binance-dies-and-crypto-is-birthed/?sh=415da8e9502b)
 
-## Weaknesses / Improvement recommendation
-
-In this section I would like to give some points of improvement and **NOT** weaknesses. While I strongly believe I am not the correct person for this job.
-
-- Authors does not use the "academic" way to write his references. Although personally is not big issue because I am engineer and I enjoy reading different styles of essays and trying to understand the essay topic, and not waist my time on its structure (Because I don't study soft science), although I can not leave this comment out of my feedback because for a lot scientists the "good" reference structure is important.
-- Author uses some acronyms that he does not explain clearly what they stand for. 
-- I would enjoy one sentence of explanation about what is anonymity (because people technical and non usually confuse it with privacy.)
-- I would like to see some graphs showing some of the cases the authors presents.
-- See some screenshot or suggestions from well known news papers articles that illustrates the topic of the essay. For example **Forbes** has a very interesting article about this topic. That I suggest it is worth of reading [Binance On Deathbed, And Crypto Is Birthed](https://www.forbes.com/sites/digital-assets/2023/11/26/binance-dies-and-crypto-is-birthed/?sh=415da8e9502b)
-
-
 ## Some detailed points
 
-### Introduction
-
-As already explained the introduction sections is very well written and makes a very good introduction to the topic. It uses simple language and helps people that have no prior knowledge in this topic to understand and have a good introduction to the topic.
-
-### Background
-
-Author uses some acronyms about the USA government sections, that personal as reader I have no knowledge about them. So I needed to search about them. I would suggest just to give a reference from the USE government web page or other official web page with clear explanation about SEC, CFTC, IRS. Additionally the AML and KYC laws are well explained and give the reader a good first impression about them. I liked a lot that the author gives more examples from other countries apart the USA such as Canada or the UK. Finally again I would like to strongly mention that the author uses simple and clear language that I respect it a lot.
-
-### Case studies
-
-As I mentioned in previous sections I liked a lot that the author uses well known cases in her essay and with this way makes the readers experience much more interesting and engage, because the reader can easily find articles around the web about these topics. Also author explains very well the cases and it is important to mention that the author choosing three different topics to analyze gives to the reader more spherical knowledge and understanding about the topic. The only think that I would like to mention is that the author could add some graphs or give some valid papers. (As I have already explained).
 ### Introduction
 
 As already explained, the introduction section is very well written and perfectly introduces the topic. It uses simple language and helps people with no prior knowledge of this topic to understand and have a good introduction.

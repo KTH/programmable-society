@@ -89,6 +89,7 @@ Concept: As a group of two, you scope, design, and implement a smart contract pr
 
 The protocol proposal must be done through a pull-request before Nov 15, sunset in Stockholm.
 
+
 |                                             | Yes | No | 
 |-------------------------------------------- | ----|----|
 |github: The protocol is hosted on GitHub, publicly available. The GitHub repository must have a root README file. | Mandatory | - | 

@@ -21,3 +21,5 @@ I want to give feedback on Vivi Andersson's essay "ZKP Computation Verification:
 
 **Relevance**
 I want to give as valuable feedback as possible to Vivi, which hopefully will be relevant when it comes to the quality of her finished essay.
+
+Feedback: https://github.com/KTH/programmable-society/pull/88#issuecomment-1853883136

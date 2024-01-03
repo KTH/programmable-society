@@ -10,11 +10,11 @@ Open source contribution to reth
 
 ## Deadline
 
-- Task 2
+- Task 3
 
 ## Category
 
-- Open-source Contribution
+- Open source
 
 ## Description
 

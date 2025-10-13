@@ -4,27 +4,19 @@ WIP FOR 2025 edition.
 
 The course has a project-based examination, where the student has to perform a number of tasks.
 
-* To pass the course, the student has to complete and pass between 3 mandatory tasks:
-  * presentation (mandatory)
-  * demo (mandatory)
-  * smart contract protocol development (mandatory)
-* To get a grade better than E, the student can do optional tasks in the following categories
-  * essay (optional)
-  * contribution to open-source (optional)
-  * feedback (optional)
-  * questions (optional)
-* Final grading scheme PASS / FAIL
+* To pass the course, the student has must hand-in the "course completion document" and pass the grand oral (see below). This document is structured with 4 sections: 1) design, develop and run blockchain protocols and nodes, 2) use current programming languages for smart contracts 3) use and improve software engineering for smart contracts 4) explain technology for distributed ledgers (DLT) and smart contracts in different implementation domains. IN each section, the student argues for what has been done to demonstrate the skills. For example:
+  - 1) demo or open source contribution
+  - 2) smart contract protocol task and presentation
+  - 3) demo or open source contribution
+  - 4) presentation or demo
+* There must be at least one presentation (mandatory), one demo (mandatory), smart contract protocol development (mandatory)
+* Final grading scheme PASS / FAIL. The student has to pass all criteria.
 * The same student cannot choose the same topic for two different tasks. 
-* Important dates:
-  * Deadline for presentations and demos: the day and time they are given in person
-  * Deadline for essay: [Emmanuelle Charpentier's birthday](https://en.wikipedia.org/wiki/Emmanuelle_Charpentier), Dec 11 2023, 17h Stockholm time
-  * Deadline for feedback: 48 hours after submission from the original authors
-  * Grand oral: [Brad Pitt](https://en.wikipedia.org/wiki/Brad_Pitt)'s birthday, Dec 18 2023
-  * Deadline for open-source: [David Bowie](https://en.wikipedia.org/wiki/David_Bowie)'s birthday, Jan 8 2024, 17h Stockholm time (if repeated Jan 15 2024)
-  * Deadline for repeated tasks (all): **Jan 8 2024, 17h Stockholm time**.
-  * The deadlines are strict and cannot be extended. Not meeting a deadline means failing the task / the repetition.
-* Group work is encouraged for smart contract development (max 2 persons).
-* A failed task requires to pass it again at the end of the course (repeat), based on the feedback from the failure. A task can only be repeated once.
+* The grand oral consists of defending the work, as presented in the course completion document, which has be to be accepted before. The grand oral takes place on Dec 18 2023, 9h-16h.
+* Deadline for open-source: Dec 11, 2025
+* The deadlines are strict and cannot be extended. Not meeting a deadline means failing the task / the repetition.
+* All tasks are done individually, except for the smart contract development task, which can optionnaly be done in pairs.
+* A failed task requires to pass it again (repeat), based on the feedback from the failure. A task can only be repeated once.
 * If the whole course is failed, no grades are kept if the student registers again to the course later on. 
 * After a proposal has been merged, the topic of that proposal cannot be changed.
 * When you send a pull request for registration, please follow the name convention of using email addresses to create the folder: `kthlogin` or `kthlogin-kthlogin` for group registration.

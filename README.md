@@ -20,7 +20,7 @@ Intro: Course introduction (Teaching philosophy, [Flipped classroom](https://en.
 
 * [smart contract languages](https://github.com/KTH/programmable-society/issues/1)
 
-### 3. Nov 11 2025 DeFi
+### 3. Nov 10 2025 DeFi
 
 * [smart contracts for finance (Defi)](https://github.com/KTH/programmable-society/issues/3)
 

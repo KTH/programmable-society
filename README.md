@@ -1,6 +1,6 @@
 # Programmable Society with Blockchain and Smart Contracts
 
-This is the home of course "Programmable Society" at KTH Royal Institute of Technology, Stockholm, Sweden (course code [DD2585](https://www.kth.se/student/kurser/kurs/DD2585?l=en)).
+This is the home of course "Programmable Society" at KTH Royal Institute of Technology, Stockholm, Sweden (course code [DD2585](https://www.kth.se/student/kurser/kurs/DD2585?l=en), [canvas](https://canvas.kth.se/courses/57565/))
 
 [Martin Monperrus (monperrus.eth)](http://www.monperrus.net/martin/) (Professor), [Javier Ron](https://www.kth.se/profile/javierro?l=en) (TA), [Mojtaba Eshghie](https://www.kth.se/profile/eshghie) (TA), TBA
 
@@ -27,26 +27,27 @@ Intro: Course introduction (Teaching philosophy, [Flipped classroom](https://en.
 ### 4. Nov 17 2025 Engineering
 
 * [tool support for smart contracts](https://github.com/KTH/programmable-society/issues/2)
-* [secure smart contracts](https://github.com/KTH/programmable-society/issues/7), [verification](https://github.com/KTH/programmable-society/issues/9)
 * [smart contract libraries](https://github.com/KTH/programmable-society/issues/10)
 
-### 5. Nov 25 2025 Art
+### 5. Nov 25 2025 Security
 
-* [smart contracts for art (NFT)](https://github.com/KTH/programmable-society/issues/4)
-
+* [secure smart contracts](https://github.com/KTH/programmable-society/issues/7), [verification](https://github.com/KTH/programmable-society/issues/9)
+  
 ### 6. Dec 2 2025 Infrastructure
 * [blockchain infrastructure](https://github.com/KTH/programmable-society/issues/6)
 * [blockchain monitoring \& Analytics](https://github.com/KTH/programmable-society/issues/29)
 
-### 7. Dec 12 2025 DAO
+### 7. Dec 12 2025 Voting, DAO & Art
 
 * [digital identities](https://github.com/KTH/programmable-society/issues/11)
+* [on-chain voting](https://github.com/KTH/programmable-society/issues/15)
 * [smart contracts for governance (DAO)](https://github.com/KTH/programmable-society/issues/5)
+* [smart contracts for art (NFT)](https://github.com/KTH/programmable-society/issues/4)
 
 ###  Topics for all weeks
 
 * [philosophy and ethics of the blockchain paradigm](https://github.com/KTH/programmable-society/issues/8)
-* [empirical knowledge about smart contracts](https://github.com/KTH/programmable-society/issues/21)
+* [decentralization](https://github.com/KTH/programmable-society/issues/5)
   
 ## Format
 

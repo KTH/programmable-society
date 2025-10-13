@@ -13,7 +13,7 @@ The course has a project-based examination, where the student has to perform a n
 * There must be at least one presentation (mandatory), one demo (mandatory), smart contract protocol development (mandatory)
 * Final grading scheme PASS / FAIL. The student has to pass all criteria.
 * The same student cannot choose the same topic for two different tasks. 
-* The grand oral consists of defending the work, as presented in the course completion document, which has be to be accepted before. The grand oral takes place on Dec 18 2023, 9h-16h.
+* The grand oral consists of defending the work, as presented in the course completion document, which has be to be accepted before. The grand oral takes place on Dec 18 2025, 9h-16h.
 * Deadline for open-source: Dec 11, 2025
 * The deadlines are strict and cannot be extended. Not meeting a deadline means failing the task / the repetition.
 * All tasks are done individually, except for the smart contract development task, which can optionnaly be done in pairs.
@@ -73,7 +73,7 @@ To pass, the student must have at least 8 "yes".
 ## Smart Contract Protocol (mandatory)
 
 
-Concept: As a group of two, you scope, design, and implement a smart contract protocol. You choose a smart contract language of your choice. A DApp/UX is welcome but not mandatory. You present the protocol for 30 minutes (15 min presentation + 15 min questions) during the Smart Contract Grand Oral on December 18, 2023. 
+Concept: As a group of two, you scope, design, and implement a smart contract protocol. You choose a smart contract language of your choice. A DApp/UX is welcome but not mandatory. You present the protocol for 30 minutes (15 min presentation + 15 min questions) during the Smart Contract Grand Oral. 
 
 The protocol proposal must be done through a pull-request before Nov 15, sunset in Stockholm.
 

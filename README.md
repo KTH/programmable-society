@@ -2,7 +2,7 @@
 
 This is the home of course "Programmable Society" at KTH Royal Institute of Technology, Stockholm, Sweden (course code [DD2585](https://www.kth.se/student/kurser/kurs/DD2585?l=en), [canvas](https://canvas.kth.se/courses/57565/))
 
-[Martin Monperrus (monperrus.eth)](http://www.monperrus.net/martin/) (Professor), [Javier Ron](https://www.kth.se/profile/javierro?l=en) (TA), [Mojtaba Eshghie](https://www.kth.se/profile/eshghie) (TA), TBA
+[Martin Monperrus (monperrus.eth)](http://www.monperrus.net/martin/) (Professor), [Javier Ron](https://github.com/javierron) (TA), [Sofia Bobadilla](https://sofiabobadilla.github.io/)
 
 All communications happen on this repo as issue / PR, or by email to programmable-society-ta@kth.se.
 

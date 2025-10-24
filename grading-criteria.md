@@ -4,19 +4,22 @@ WIP FOR 2025 edition.
 
 The course has a project-based examination, where the student has to perform a number of tasks.
 
-* To pass the course, the student has must hand-in the "course completion document" and pass the grand oral (see below) and provide peer-feedback (see below).
-* The course completion document is structured with 4 sections: 1) design, develop and run blockchain protocols and nodes, 2) use current programming languages for smart contracts 3) use and improve software engineering for smart contracts 4) explain technology for distributed ledgers (DLT) and smart contracts in different implementation domains. IN each section, the student argues for what has been done to demonstrate the skills. For example:
-  - 1) demo or open source contribution
-  - 2) smart contract protocol task and presentation
-  - 3) demo or open source contribution or scientific paper
-  - 4) presentation or demo or scientific paper
+* To pass the course, the student must hand-in the "course completion document" and pass the grand oral (see below) and provide peer-feedback (see below).
+* The course completion document is structured with 4 sections: 1) design, develop and run blockchain protocols and nodes, 2) use current programming languages for smart contracts 3) use and improve software engineering for smart contracts 4) explain technology for distributed ledgers (DLT) and smart contracts in different implementation domains. The document is only a recap., expected to be in the range of 1000-1500 words. In each section, the student justifies for  their completed tasks demonstrate the skills, as follows:
+  - Sec 1) demo or open source contribution
+  - Sec 2) smart contract protocol task and presentation
+  - Sec 3) demo or open source contribution or scientific paper
+  - Sec 4) presentation or demo or scientific paper
 * There must be at least one presentation (mandatory), one demo (mandatory), smart contract protocol development (mandatory)
+* All tasks have to registered as a PR to this repo.
 * Final grading scheme PASS / FAIL. The student has to pass all criteria.
 * The same student cannot choose the same topic for two different tasks. 
 * The grand oral consists of defending the work, as presented in the course completion document, which has be to be accepted before. The grand oral takes place on Dec 18 2025, 9h-16h.
+* Deadline for IRL examination: the day of the presentation / demo.
+* Deadline for course completion document Dec 14, midnight. 
 * Deadline for open-source: Dec 11, 2025
 * The deadlines are strict and cannot be extended. Not meeting a deadline means failing the task / the repetition.
-* All tasks are done individually, except for the smart contract development task, which can optionnaly be done in pairs.
+* All tasks are done individually, except for the smart contract development task, which can optionally be done in pairs.
 * A failed task requires to pass it again (repeat), based on the feedback from the failure. A task can only be repeated once.
 * If the whole course is failed, no grades are kept if the student registers again to the course later on. 
 * After a proposal has been merged, the topic of that proposal cannot be changed.
@@ -27,32 +30,6 @@ The course has a project-based examination, where the student has to perform a n
 
 
 The concept: The student prepares a 7 minute presentation on a topic that is relevant to Smart Contracts. The student must be present.
-
-
-|                                             | Yes | No |
-|-------------------------------------------- | ----|----|
-|timing: The presentation's length is between 6:30-7:30 minutes (hard limit)  | Yes | No |
-|well-structured: Structure is announced and graphically visible | Yes | No |
-|motivation: The presentation contains a good, motivating introduction telling why this presentation is important | Yes | No | 
-|technical: The presentation contains one part that is deeply technical  | Yes | No |
-|code: The presentation contains valuable and readable code snippets | Yes | No |
-|originality: The presentation contains one part that is original (eg less than 100 results on Google on this topic) | Yes | No |
-|reflection: The presentation contains a reflective part  | Yes | No |
-|sota: There is one good slide positioning the presentation in the state of the art| Yes | No |
-|take-home: The last slide contains a good and concise take-home message | Yes | No |
-|loudly: The speakers talk loudly and  clearly  | Yes | No |
-|engagement: The speakers engage with the audience | Yes | No  |
-|humour: The speakers are fun, have humour  | Yes | No |
-|readable-slides: The slides don't have too much text  | Yes | No |
-|illustration: The slides contain nice illustrations  | Yes | No |
-
-
-To pass, the student need at least 8 "yes".
-
-## Demos (mandatory)
-
-
-The concept: A student prepares a demonstration involving Smart Contract technology, to be performed during the lecture. For example, a demo typically involves multiple virtual machines, likely deployed in the cloud (some resources [here](https://github.com/KTH/devops-course/issues/25)). A demonstration is scripted, prepared and lasts 6:30-7:30 minutes.
 
 
 |                                             | Yes | No |
@@ -68,12 +45,37 @@ The concept: A student prepares a demonstration involving Smart Contract technol
 |delivery: The speakers talk loudly and  clearly, engage with the audience and have humour  | Yes | No |
 |slides: The slides don't have too much text and contain nice illustrations  | Yes | No |
 
+
+To pass, the student need at least 8 "yes".
+
+## Demos (mandatory)
+
+
+The concept: A student prepares a demonstration involving Smart Contract technology, to be performed during the lecture. For example, a demo typically involves multiple virtual machines, likely deployed in the cloud (some resources [here](https://github.com/KTH/devops-course/issues/25)). A demonstration is scripted, prepared and lasts 6:30-7:30 minutes.
+
+
+
+
+|                                             | Yes | No | 
+|-------------------------------------------- | ----|----|
+|timing: The demo lasts between 6:30-7:30 minutes (hard limit)  | Mandatory | - |
+|relevant: The demonstration is clearly motivated (why it matters for Devops?) | Yes | No | 
+|narrative: The demo contains a good narrative | Yes | No | 
+|difficulty: The demonstration is difficult to do | Yes | No |
+|speech: The demo is accompanied by a clearly and structured speech | Yes | no |
+|originality: The demonstration is original (there are few demos/tutos on this topic on the Internet)| Yes | No | 
+|aesthetics: The demo is visually appealing | Yes | No | 
+|engagement: The speaker engages with the audience, possibly with an  [easter egg](http://oadoi.org/10.1145/3534857)  | Yes | No  |
+|liveness: The speaker updates some code / config live | Yes | No  |
+|take-home: The demo includes a clear and visible take-home message | Yes | No |
+
+
 To pass, the student must have at least 8 "yes".
 
 ## Smart Contract Protocol (mandatory)
 
 
-Concept: As a group of two, you scope, design, and implement a smart contract protocol. You choose a smart contract language of your choice. A DApp/UX is welcome but not mandatory. You present the protocol for 30 minutes (15 min presentation + 15 min questions) during the Smart Contract Grand Oral. 
+Concept: You scope, design, and implement a smart contract protocol. You choose a smart contract language of your choice. A DApp/UX is welcome but not mandatory. 
 
 The protocol proposal must be done through a pull-request before Nov 15, sunset in Stockholm.
 
@@ -83,7 +85,7 @@ The protocol proposal must be done through a pull-request before Nov 15, sunset 
 |github: The protocol is hosted on GitHub, publicly available. The GitHub repository must have a root README file. | Mandatory | - | 
 |tested: The protocol can be automatically executed from a test suite | Mandatory | - | 
 |documented: The usage of the protocol is well documented | Mandatory | - | 
-|timing: The length of the presentation is 15 minutes (hard limit)  | Mandatory | - |
+|timing: The length of the presentation is 15 minutes (14:30 - 15:30 hard limit)  | Mandatory | - |
 |motivation: The protocol is clearly motivated | Yes | No | 
 |background: The README gives enough background | Yes | No | 
 |tech: The presentation focuses on the technical aspects of the protocol | Yes | No | 

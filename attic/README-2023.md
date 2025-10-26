@@ -6,6 +6,15 @@ This is the home of course "Programmable Society" at KTH Royal Institute of Tech
 
 All communications happen on this repo as issue / PR, or by email to dd2485@kth.se.
 
+## Smart Contract Protocols
+
+* [Grading System for Programmable Society](https://github.com/lerjevik/grading-for-programmable-society)
+* [FaTS: Fair and Transparent Salaries](https://github.com/ChristoferVikstroem/FaTS)
+* [HabitatHash: secondary housing rental market](https://github.com/HabitatHash/HabitatHash)
+* [BlockThoughts: A decentralized chat forum](https://github.com/oskarsva/DD2485-Smart-Contract-Project)
+* [ItemBlocks: digital passport for their physical items](https://github.com/fabianzeiher/ItemBlocks)
+* [ticketmaestro: Event ticketing on chain](https://github.com/pierrelefevre/ticketmaestro)
+
 ## Agenda
 
 Reference schedule is at <https://www.kth.se/social/course/DD2485/>. The lab queue is [DD2485](https://queue.csc.kth.se/Queue/DD2485).

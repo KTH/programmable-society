@@ -1,4 +1,4 @@
-# Programmable Society with Blockchain and Smart Contracts
+# Programmable Society with Blockchains and Smart Contracts
 
 This is the home of course "Programmable Society" at KTH Royal Institute of Technology, Stockholm, Sweden (course code [DD2585](https://www.kth.se/student/kurser/kurs/DD2585?l=en), [canvas](https://canvas.kth.se/courses/57565/))
 
@@ -10,7 +10,7 @@ See [2023 edition of the course](attic/README-2023.md).
 
 ## Agenda
 
-Reference schedule is at <https://www.kth.se/social/course/DD2585/>. The lab queue is https://queue.csc.kth.se/Queue/TODO.
+Reference schedule is at <https://www.kth.se/social/course/DD2585/>. The lab queue is <https://queue.csc.kth.se/Queue/DD2585>.
 
 ### 1. Oct 27 2025 Introduction
 
@@ -18,10 +18,12 @@ Intro: Course introduction (Teaching philosophy, [Flipped classroom](https://en.
 
 ### 2. Nov 4 2025 Languages
 
+* [philosophy of crypto](https://github.com/KTH/programmable-society/issues/8)
 * [smart contract languages](https://github.com/KTH/programmable-society/issues/1)
 
 ### 3. Nov 10 2025 DeFi
 
+* [smart contract languages](https://github.com/KTH/programmable-society/issues/1)
 * [smart contracts for finance (Defi)](https://github.com/KTH/programmable-society/issues/3)
 
 ### 4. Nov 17 2025 Engineering
@@ -31,7 +33,8 @@ Intro: Course introduction (Teaching philosophy, [Flipped classroom](https://en.
 
 ### 5. Nov 25 2025 Security
 
-* [secure smart contracts](https://github.com/KTH/programmable-society/issues/7), [verification](https://github.com/KTH/programmable-society/issues/9)
+* [secure smart contracts](https://github.com/KTH/programmable-society/issues/7)
+* [smart contract verification](https://github.com/KTH/programmable-society/issues/9)
   
 ### 6. Dec 2 2025 Infrastructure
 * [blockchain infrastructure](https://github.com/KTH/programmable-society/issues/6)
@@ -46,7 +49,7 @@ Intro: Course introduction (Teaching philosophy, [Flipped classroom](https://en.
 
 ###  Topics for all weeks
 
-* [philosophy and ethics of the blockchain paradigm](https://github.com/KTH/programmable-society/issues/8)
+* [philosophy and ethics of crypto](https://github.com/KTH/programmable-society/issues/8)
 * [decentralization](https://github.com/KTH/programmable-society/issues/5)
   
 ## Format

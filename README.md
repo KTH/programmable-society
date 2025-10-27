@@ -4,6 +4,8 @@ This is the home of course "Programmable Society" at KTH Royal Institute of Tech
 
 [Martin Monperrus (monperrus.eth)](http://www.monperrus.net/martin/) (Professor), [Javier Ron](https://github.com/javierron) (TA), [Sofia Bobadilla](https://sofiabobadilla.github.io/) (TA)
 
+Course wallet: 0xcf03578d95Ca4fEe42931baAE56324a2E19b70F4 (Sepolia)
+
 All communications happen on this repo as issue / PR (tasks), or by email to programmable-society-ta@kth.se (private channel).
 
 See [2023 edition of the course](attic/README-2023.md).

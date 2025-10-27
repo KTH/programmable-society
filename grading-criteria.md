@@ -55,7 +55,6 @@ The concept: A student prepares a demonstration involving Smart Contract technol
 
 
 
-
 |                                             | Yes | No | 
 |-------------------------------------------- | ----|----|
 |timing: The demo lasts between 6:30-7:30 minutes (hard limit)  | Mandatory | - |
@@ -131,6 +130,7 @@ Criteria for the selection of the open-source project: 1) The project is related
 |relevance: The contribution is relevant to the project's roadmap and adds value to the project. | Yes | No |
 |merge: The contribution is merged in the main branch of the target project.| Yes | No | 
 
+
 To pass, the student must have 8 yes.
 
 ## Feedback
@@ -151,6 +151,7 @@ The feedback is provided in a written manner.
 |pointers: the feedback contains valuable pointers to additional material | Yes | No |
 |respectful: the feedback is delivered in a respectful and professional manner | Yes | No |
 |humor: the feedback is delivered with a touch of humor, making it more engaging and easier to receive | Yes | No |
+
 
 To pass, the student must have 8 yes.
 

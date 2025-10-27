@@ -35,8 +35,8 @@ _Category of your proposal_
 _Pick one of the following:_
 - Demo
 - Presentation
-- Smart contract protocol
-- Paper/Book presentation
+- Smart Contract Protocol
+- Paper/Book Presentation
 - Open source
 - Feedback 
 

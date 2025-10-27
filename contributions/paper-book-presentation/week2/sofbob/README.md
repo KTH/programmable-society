@@ -15,7 +15,7 @@ Demo on Panda contracts
 
 ## Category
 
-Demo
+Paper/Book Presentation
 
 ## Description
 

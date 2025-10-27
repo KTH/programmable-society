@@ -1,7 +1,5 @@
 # Examination rules of "Programmable Society"
 
-WIP FOR 2025 edition.
-
 The course has a project-based examination, where the student has to perform a number of tasks.
 
 * To pass the course, the student must hand-in the "course completion document" and pass the grand oral (see below) and provide peer-feedback (see below).

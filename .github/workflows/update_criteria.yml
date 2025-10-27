@@ -6,7 +6,7 @@ name: Grading criteria
 on:
   push:
     branches:
-      - 2023
+      - 2025
     paths:
       - 'grading-criteria.md'
 
@@ -48,4 +48,4 @@ jobs:
           GH_REPO_FULLNAME: ${{ secrets.GH_REPO_FULLNAME }}
         run: |
           export PYTHONPATH="$PWD/canvas-code/utils"
-          python ./canvas-code/update_grading.py --issue vladomitrovic
+          python ./canvas-code/update_grading.py --issue sofiabobadilla

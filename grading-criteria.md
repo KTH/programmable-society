@@ -1,13 +1,11 @@
 # Examination rules of "Programmable Society"
 
-WIP FOR 2025 edition.
-
 The course has a project-based examination, where the student has to perform a number of tasks.
 
 * To pass the course, the student must hand-in the "course completion document" and pass the grand oral (see below) and provide peer-feedback (see below).
 * The course completion document is structured with 4 sections: 1) design, develop and run blockchain protocols and nodes, 2) use current programming languages for smart contracts 3) use and improve software engineering for smart contracts 4) explain technology for distributed ledgers (DLT) and smart contracts in different implementation domains. The document is only a recap., expected to be in the range of 1000-1500 words. In each section, the student justifies for  their completed tasks demonstrate the skills, as follows:
-  - Sec 1) demo or open source contribution
-  - Sec 2) smart contract protocol task and presentation
+  - Sec 1) demo or open source contribution.
+  - Sec 2) smart contract protocol task and presentation.
   - Sec 3) demo or open source contribution or scientific paper
   - Sec 4) presentation or demo or scientific paper
 * There must be at least one presentation (mandatory), one demo (mandatory), smart contract protocol development (mandatory)
@@ -17,7 +15,7 @@ The course has a project-based examination, where the student has to perform a n
 * The grand oral consists of defending the work, as presented in the course completion document, which has be to be accepted before. The grand oral takes place on Dec 18 2025, 9h-16h.
 * Deadline for IRL examination: the day of the presentation / demo.
 * Deadline for course completion document Dec 14, midnight. 
-* Deadline for open-source: Dec 11, 2025
+* Deadline for open-source: Dec 11, 2025.
 * The deadlines are strict and cannot be extended. Not meeting a deadline means failing the task / the repetition.
 * All tasks are done individually, except for the smart contract development task, which can optionally be done in pairs.
 * A failed task requires to pass it again (repeat), based on the feedback from the failure. A task can only be repeated once.
@@ -52,8 +50,6 @@ To pass, the student need at least 8 "yes".
 
 
 The concept: A student prepares a demonstration involving Smart Contract technology, to be performed during the lecture. For example, a demo typically involves multiple virtual machines, likely deployed in the cloud (some resources [here](https://github.com/KTH/devops-course/issues/25)). A demonstration is scripted, prepared and lasts 6:30-7:30 minutes.
-
-
 
 
 |                                             | Yes | No | 
@@ -110,7 +106,7 @@ To pass, you must have the mandatory parts and at least 9 "yes".
 
 
 
-## Open-source contributions
+## Open-source Contributions
 
 
 The concept: the student contributes to one open-source project related to Smart Contracts. The student gets at least one merged pull-request.
@@ -131,9 +127,11 @@ Criteria for the selection of the open-source project: 1) The project is related
 |relevance: The contribution is relevant to the project's roadmap and adds value to the project. | Yes | No |
 |merge: The contribution is merged in the main branch of the target project.| Yes | No | 
 
+
 To pass, the student must have 8 yes.
 
 ## Feedback
+
 
 The concept: the student provides constructive and timely feeback on the four tasks and the final document of another student (5 sections in total).
 The feedback is provided in a written manner.
@@ -152,10 +150,12 @@ The feedback is provided in a written manner.
 |respectful: the feedback is delivered in a respectful and professional manner | Yes | No |
 |humor: the feedback is delivered with a touch of humor, making it more engaging and easier to receive | Yes | No |
 
+
 To pass, the student must have 8 yes.
 
 
-## Paper / Book Presentation 
+## Paper / Book Presentations
+
 
 The concept: The students prepare a 7 minute presentation on one scientific paper or a book related to programmable society. Scientific papers must be published in the main proceedings of [software engineering](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_softwaresystems) or [computer security](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computersecuritycryptography) venues. 
 

@@ -106,7 +106,7 @@ To pass, you must have the mandatory parts and at least 9 "yes".
 
 
 
-## Open-source contributions
+## Open-source Contributions
 
 
 The concept: the student contributes to one open-source project related to Smart Contracts. The student gets at least one merged pull-request.
@@ -153,7 +153,7 @@ The feedback is provided in a written manner.
 To pass, the student must have 8 yes.
 
 
-## Paper / Book Presentation 
+## Paper / Book Presentations 
 
 The concept: The students prepare a 7 minute presentation on one scientific paper or a book related to programmable society. Scientific papers must be published in the main proceedings of [software engineering](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_softwaresystems) or [computer security](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computersecuritycryptography) venues. 
 

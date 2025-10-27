@@ -17,7 +17,7 @@ The course has a project-based examination, where the student has to perform a n
 * The grand oral consists of defending the work, as presented in the course completion document, which has be to be accepted before. The grand oral takes place on Dec 18 2025, 9h-16h.
 * Deadline for IRL examination: the day of the presentation / demo.
 * Deadline for course completion document Dec 14, midnight. 
-* Deadline for open-source: Dec 11, 2025
+* Deadline for open-source: Dec 11, 2025.
 * The deadlines are strict and cannot be extended. Not meeting a deadline means failing the task / the repetition.
 * All tasks are done individually, except for the smart contract development task, which can optionally be done in pairs.
 * A failed task requires to pass it again (repeat), based on the feedback from the failure. A task can only be repeated once.

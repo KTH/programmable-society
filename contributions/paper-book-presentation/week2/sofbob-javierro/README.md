@@ -7,6 +7,7 @@ Demo on Panda contracts
 ## Names and KTH ID
 
   - Sofia Bobadilla (sofbob@kth.se)
+  - Javier Ron (javierro@kth.se)
 
 ## Deadline
 

@@ -4,7 +4,7 @@
 On-Chain Verifiable Randomness: Demo with Chainlink VRF.
 
 ## Names and KTH ID
-- Serene Sim (sacsim@kth.se)
+- Serene Sim Ann Chee (sacsim@kth.se)
 
 ## Deadline
 - Week 6

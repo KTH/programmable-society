@@ -3,7 +3,7 @@
 The course has a project-based examination, where the student has to perform a number of tasks.
 
 * To pass the course, the student must hand-in the "course completion document" and pass the grand oral (see below) and provide peer-feedback (see below).
-* The course completion document is structured with 5 sections: 1) design, develop and run blockchain protocols and nodes, 2) use current programming languages for smart contracts 3) use and improve software engineering for smart contracts 4) explain technology for distributed ledgers (DLT) and smart contracts in different implementation domains 5) challenges. The document is only a recap., expected to be in the range of 1000-1500 words. In each section, the student justifies for  their completed tasks demonstrate the skills, as follows:
+* The course completion document is structured with 5 sections: 1) design, develop and run blockchain protocols and nodes, 2) use current programming languages for smart contracts 3) use and improve software engineering for smart contracts 4) explain technology for distributed ledgers (DLT) and smart contracts in different implementation domains 5) challenges. The document is only a recap., expected to be in the range of 1000-1500 words. In each section, the student justifies how their completed tasks demonstrate the skills, as follows:
   - Sec 1) demo or open source contribution.
   - Sec 2) smart contract protocol task and presentation.
   - Sec 3) demo or open source contribution or scientific paper

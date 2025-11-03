@@ -18,7 +18,7 @@ Demo programmable money with smart contract
 
 ## Description
 
-Demonstration on how to perform programmable money with ETH's smart contract (e.g., with ERC-20). Will describe the mechanism, the difference between ETH's "currency" (i.e., gas / ETH)
+Demonstration on how to perform programmable money with ETH's smart contract with ERC-20. The presentation will go deep into the mechanism
 
 **Relevance**
 

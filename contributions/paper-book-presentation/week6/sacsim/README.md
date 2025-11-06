@@ -1,20 +1,22 @@
 # Assignment Proposal
 
-## Title
-Can Artificial Intelligence solve the blockchain oracle problem? Unpacking the Challenges and Possibilities
+## Title  
+From Trust to Truth: Infrastructure Challenges and Advances in Mitigating the Blockchain Oracle Problem
 
-## Names and KTH ID
+## Names and KTH ID  
 - Serene Sim Ann Chee (sacsim@kth.se)
 
-## Deadline
+## Deadline  
 - Week 6
 
-## Category
-- Paper Presentation 
-- Reference Paper https://www.arxiv.org/pdf/2507.02125
+## Category  
+- Paper Presentation  
+- Reference Paper: https://www.sciencedirect.com/science/article/pii/S1084804523000917  (2023)
 
-## Description
-This presentation will explore the blockchain oracle problem: the challenge of reliably and trustlessly feeding external data into decentralized smart contracts. It will critically assess how artificial intelligence techniques like anomaly detection, dynamic reputation modeling, and adversarial resistance can improve oracle system reliability without fully eliminating the need for trust in off-chain inputs. The talk will analyze state-of-the-art AI-based oracle architectures and discuss their potential and limitations in solving this fundamental blockchain challenge.
+## Description  
+This presentation explores the blockchain oracle problem: how to securely connect decentralized smart contracts to trustworthy external data sources. Grounded in recent infrastructure advancements, it covers decentralized oracle architectures, multi-source data consensus, cryptographic authentications, and governance challenges. This presentation will highlight ongoing efforts to improve oracle reliability and scalability, essential for enabling secure, real-world blockchain applications.
 
-**Relevance**  
-The oracle problem is a core barrier to broad smart contract adoption because blockchains cannot natively verify external data. AI offers promising complementary tools to enhance oracle data quality and resilience, making this an important cutting-edge topic at the intersection of blockchain and AI research.
+## Relevance  
+Oracles represent a foundational challenge in blockchain infrastructure, essential to unlocking the full potential of smart contracts across industries. Understanding advanced mitigation strategies informs robust blockchain design, benefiting software engineers, system architects, and security professionals.
+
+

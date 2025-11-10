@@ -59,7 +59,7 @@ The concept: A student prepares a demonstration involving Smart Contract technol
 |                                             | Yes | No | 
 |-------------------------------------------- | ----|----|
 |timing: The demo lasts between 6:30-7:30 minutes (hard limit)  | Mandatory | - |
-|relevant: The demonstration is clearly motivated (why it matters for Devops?) | Yes | No | 
+|relevant: The demonstration is clearly motivated (why it matters for Programable Society?) | Yes | No | 
 |narrative: The demo contains a good narrative | Yes | No | 
 |difficulty: The demonstration is difficult to do | Yes | No |
 |speech: The demo is accompanied by a clearly and structured speech | Yes | no |

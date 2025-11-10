@@ -7,7 +7,7 @@ On-Chain Verifiable Randomness: Demo with Chainlink VRF.
 - Serene Sim Ann Chee (sacsim@kth.se)
 
 ## Deadline
-- Week 6
+- Week 7
 
 ## Category
 - Demo

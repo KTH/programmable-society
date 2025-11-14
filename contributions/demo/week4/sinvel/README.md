@@ -23,5 +23,5 @@ Steps :
   5.Implement a simple transaction flow and call functions on a smart contract
   6.Show UI and Chain connection
 
-## Relevance
-Web3.js is a really popular framework to connect to a blockchain and an introdution to it will be useful for the final smart contract protocol development .
+Relevance
+Web3.js is a really popular framework to connect to a blockchain and an introdution to it will be useful for the final smart contract protocol development

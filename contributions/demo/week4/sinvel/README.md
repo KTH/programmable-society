@@ -1,4 +1,4 @@
-# DEMO Proposal
+# Assignment Proposal
 
 ## Title
 **Application using Web3.js on a local chain**

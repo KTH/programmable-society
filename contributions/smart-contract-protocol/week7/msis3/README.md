@@ -38,7 +38,7 @@ The protocol does **not** store raw medical data on-chain. Instead, it stores **
 - Use emergency access (“break-glass”) in critical situations  
 - Generate immutable audit logs through on-chain events  
 
-All critical actions—registering, granting, revoking, emergency access—are recorded on the blockchain as events that create a **compliance-friendly, tamper-proof audit trail**.
+All critical actions like registering, granting, revoking, emergency access are recorded on the blockchain as events that create a **compliance-friendly, tamper-proof audit trail**.
 
 The protocol is implemented in **Solidity** and includes a complete test suite demonstrating correctness of consent logic, time-based expiry, access verification, and role-based controls.
 

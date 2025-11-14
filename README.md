@@ -40,7 +40,7 @@ Intro: Course introduction (Teaching philosophy, [Flipped classroom](https://en.
   
 ### 6. Dec 2 2025 Infrastructure
 * [blockchain infrastructure](https://github.com/KTH/programmable-society/issues/6)
-* [blockchain monitoring \& Analytics](https://github.com/KTH/programmable-society/issues/29)
+* [blockchain analytics](https://github.com/KTH/programmable-society/issues/133), [blockchain monitoring](https://github.com/KTH/programmable-society/issues/29)
 
 ### 7. Dec 12 2025 Governance (Voting, DAO) & Art
 

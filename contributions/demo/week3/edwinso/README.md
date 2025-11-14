@@ -23,3 +23,5 @@ Demonstration on how to perform programmable money with ETH's smart contract wit
 **Relevance**
 
 Programmable money is one of the major use cases of smart contracts. This demo will demonstrate how common "cryptocurrency coins" are being created and how they work in ETH. 
+
+[**Link to deployed ERC-20 contract (Queen$)**](https://sepolia.etherscan.io/token/0x941f73eb5dc8ae40b726d2648ccb6791e304e9d4)

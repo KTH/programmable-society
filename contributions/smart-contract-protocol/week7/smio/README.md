@@ -22,8 +22,3 @@ I propose implementing a minimal on-chain identity protocol that allows users to
 The system will consist of:
 - A registry contract that handles one-time registration.
 - A Soulbound Token contract that mints a non-transferable identity token after successful registration.
-
-## Relevance
-
-Proof-of-personhood is used for many decentralized applications.
-Through a minimal example, the protocol demonstrates how identity can be expressed on-chain without compromising privacy.

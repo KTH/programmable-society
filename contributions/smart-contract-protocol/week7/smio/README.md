@@ -3,7 +3,7 @@
 
 A Minimal Proof-of-Personhood Identity Protocol
 
-## Name and KTH ID
+## Names and KTH ID
 
 Ionescu Serban-Mihai smio@kth.se
 

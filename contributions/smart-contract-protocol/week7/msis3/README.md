@@ -4,7 +4,7 @@
 MedChain Consent: Blockchain-Based Patient Consent & Access Control Protocol
 
 ## Names and KTH ID
-MD SAKIBUL ISLAM (yourKTHid@kth.se)
+Md Sakibul Islam (msis3@kth.se)
 
 ## Deadline
 Week 7

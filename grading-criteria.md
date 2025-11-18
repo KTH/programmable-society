@@ -12,6 +12,11 @@ The course has a project-based examination, where the student has to perform a n
     - Challenge 1: send ETH to the [course address](https://sepolia.etherscan.io/address/0xcf03578d95ca4fee42931baae56324a2e19b70f4) on Sepolia
     - Challenge 2: call function with selector 0x42424242 on the [challenge02 contract](https://sepolia.etherscan.io/address/0xe621abea69c75da07c3850eea3965de0599d4b3d#code). Bonus: find a method signature with hash collision to 0x42424242.
     - Challenge 3: deploy a contract on Sepolia, this contract must have a `function getGithubId() returns (string)` which return your Github username and a `function owner() returns (address)` which returns the address you're using for the challenges. Bonus: verify the smart contract.
+    - Challenge 4: write and deploy a contract, which must call registerData on the [Challenge04 registry contract](0x3819c7071f2bc39c83187bf5b5aea79fa3e37c42) with the following parameters:
+        - tx_challenge01 (bytes32): the transaction hash of your transaction for challenge 1
+        - tx_challenge02 (bytes32): the transaction hash of your transaction for challenge 2
+        - contract_challenge03 (address): the address of your deployed contract for challenge 3
+        - contract_challenge04 (address): the address of the challenge 4 contract
 * There must be at least one presentation (mandatory), one demo (mandatory), smart contract protocol development (mandatory)
 * All tasks have to registered as a PR to this repo.
 * Final grading scheme PASS / FAIL. The student has to pass all criteria.

@@ -22,7 +22,7 @@ BSB: Bringing Safe Browsing to Blockchain Platform
 ## Category
 
 
-- Research Paper
+- Book Presentation
 
 
 ## Description

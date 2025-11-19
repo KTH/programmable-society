@@ -17,5 +17,5 @@ For this demo, I will analyze a simple smart contract that contains a reentrancy
 
 This demo highlights how security tools can quickly reveal weaknesses that might not be obvious at first glance and demonstrates the importance of following secure development practices in smart contracts.
 
-## Relevance
+**Relevance**
 Reentrancy remains one of the most impactful and well-known vulnerabilities in Ethereum smart contracts, responsible for several major real-world exploits. Demonstrating how to detect and prevent this type of bug aligns directly with the week's theme of **Security** and reinforces the importance of safe smart contract development in a programmable society.

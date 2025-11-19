@@ -18,7 +18,7 @@ Confidential Computing - The Invisible Thief
 
 ## Description
 
-This demo contrasts a public (vulnerable) token swap with a secret (protected) token swap, showing how confidential computing prevents a "Sandwich Attack".
+This demo contrasts a public (vulnerable) token swap with a secret (protected) token swap, showing how confidential computing prevents a "Sandwich Attack". And will demonstrate the algorithm behind the improvement.
 
 **Relevance**
 

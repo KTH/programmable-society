@@ -15,6 +15,7 @@
 - [demo] [Confidential Computing - The Invisible Thief](https://github.com/KTH/programmable-society/pull/156) Mingtao Zhang
 - [demo] [Detecting and Fixing Reentrancy Vulnerabilities Using Slither](https://github.com/KTH/programmable-society/pull/163) Adrian Mehmeti
 - [presentation] [Re-Entrancy Attacks in Smart Contracts: Understanding, Exploiting, and Preventing Them](https://github.com/KTH/programmable-society/pull/135) Md. Sakibul Islam
+- [presentation] [Gas Optimization vs Security: When Saving Gas Introduces Critical Vulnerabilities](https://github.com/KTH/programmable-society/pull/143) Md Ahsanul karim
 - [presentation] [Legacy Code, Centralized Control, 184 Billion Dollars: The Paradox of Tether](https://github.com/KTH/programmable-society/pull/158) Rong Jin
 - [paper presentation] [BSB: Bringing Safe Browsing to Blockchain Platform](https://github.com/KTH/programmable-society/pull/160) Ionescu Serban-Mihai
 - [paper presentation] [Gap Between Theory and Practice: An Empirical Study of Security Patches in Solidity](https://github.com/KTH/programmable-society/pull/165) Runze Cui

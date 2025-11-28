@@ -17,6 +17,7 @@ The course has a project-based examination, where the student has to perform a n
         - tx_challenge02 (bytes32): the transaction hash of your transaction for challenge 2
         - contract_challenge03 (address): the address of your deployed contract for challenge 3
         - contract_challenge04 (address): the address of the challenge 4 contract
+    - Challenge 5: write a small front-end for the 2 read methods (getRegisteredAddresses, getData) of the [Challenge04 registry contract](https://sepolia.etherscan.io/address/0x3819c7071f2bc39c83187bf5b5aea79fa3e37c42) ([code](https://gist.github.com/monperrus/ba7ec190cef2a0aa60946211447a468c)), the frontend should be hosted on IPFS (you can use a free IPFS hosting tier such as Pinata). You can use the web3 library of your choice.   
 * There must be at least one presentation (mandatory), one demo (mandatory), smart contract protocol development (mandatory)
 * All tasks have to registered as a PR to this repo.
 * Final grading scheme PASS / FAIL. The student has to pass all criteria.

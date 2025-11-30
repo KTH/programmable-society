@@ -32,6 +32,8 @@ The demo will show actual coverage reports with color-coded visualizations (red/
 
 **Relevance**
 
-This demo aligns with the course focus on tool support for smart contracts. Code coverage tools like solidity-coverage are essential development infrastructure that reveals untested code paths, integrates with existing test frameworks, and guides security-focused development. The demo shows how proper tooling prevents vulnerabilities that have cost billions in real-world incidents, demonstrating the practical value of automated testing tools in smart contract security.
+This demo directly aligns with the course theme of tool support and infrastructure for secure smart contract development. Solidity-coverage is a critical part of the blockchain development toolchain: it analyzes execution paths, reveals untested logic, and integrates seamlessly with frameworks like Hardhat. Unlike traditional blockchain analytics or monitoring, which focus on on-chain activity, coverage tools work at the development layer—identifying weaknesses before deployment.
+
+By demonstrating how solidity-coverage exposes hidden code paths that could contain severe vulnerabilities, this demo highlights how modern development infrastructure improves reliability, prevents costly security failures, and supports best practices for building safe, production-grade smart contracts.
 
 

@@ -28,7 +28,7 @@
 - [demo] [Code Coverage for Smart Contracts: How Testing Metrics Prevent Million-Dollar Vulnerabilities](https://github.com/KTH/programmable-society/tree/2025/contributions/demo/week6/makari) Md Ahsanul karim (makari@kth.se)
 - [demo] [Secure Smart Contract Demo Using OpenZeppelin](https://github.com/KTH/programmable-society/tree/2025/contributions/demo/week6/msis3) Md. Sakibul Islam (msis3@kth.se)
 - [demo] [Decentralization Never Forgives: The Yearn Infinite Mint Glitch](https://github.com/KTH/programmable-society/tree/2025/contributions/demo/week6/rongjin) Rong Jin (rongjin@kth.se)
-- [demo] [runzec](https://github.com/KTH/programmable-society/tree/2025/contributions/demo/week6/runzec) Runze Cui (runze@kth.se)
+- [demo] [EVM Gas Profiler: Demonstrating Real Cost Differences Between Storage, Memory, Event and External Calls](https://github.com/KTH/programmable-society/tree/2025/contributions/demo/week6/runzec) Runze Cui (runze@kth.se)
 - [demo] [Using Dune Analytics for DAO Governance Insights](https://github.com/KTH/programmable-society/tree/2025/contributions/demo/week6/shatan) Shangxuan Tang (shatan@kth.se)
 - [demo] [Monitoring a betting app using Dune](https://github.com/KTH/programmable-society/tree/2025/contributions/demo/week6/smio) Ionescu Serban-Mihai (smio@kth.se)
 - [demo] [Real-Time ERC20 Analytics: Indexing Smart-Contract Events with Envio](https://github.com/KTH/programmable-society/tree/2025/contributions/demo/week6/yifsu) Yifan Su (yifsu@kth.se)

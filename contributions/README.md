@@ -22,3 +22,19 @@
 - [paper presentation] [VRust: Automated Vulnerability Detection for Solana Smart Contracts](https://github.com/KTH/programmable-society/pull/166) Shangxuan Tang
 - [presentation] [Scaling through verification - Intro to Cairo and STARKs](https://github.com/KTH/programmable-society/pull/167) Singvalliyappa Velayutham
 - [paper presentation] [Securing Deployed Smart Contracts and DeFi With Distributed TEE Cluster](https://github.com/KTH/programmable-society/pull/169) Edwin So
+
+## week 6
+
+- [demo] [Code Coverage for Smart Contracts: How Testing Metrics Prevent Million-Dollar Vulnerabilities](https://github.com/KTH/programmable-society/tree/2025/contributions/demo/week6/makari) Md Ahsanul karim (makari@kth.se)
+- [demo] [Secure Smart Contract Demo Using OpenZeppelin](https://github.com/KTH/programmable-society/tree/2025/contributions/demo/week6/msis3) Md. Sakibul Islam (msis3@kth.se)
+- [demo] [Decentralization Never Forgives: The Yearn Infinite Mint Glitch](https://github.com/KTH/programmable-society/tree/2025/contributions/demo/week6/rongjin) Rong Jin (rongjin@kth.se)
+- [demo] [EVM Gas Profiler: Demonstrating Real Cost Differences Between Storage, Memory, Event and External Calls](https://github.com/KTH/programmable-society/tree/2025/contributions/demo/week6/runzec) Runze Cui (runze@kth.se)
+- [demo] [Using Dune Analytics for DAO Governance Insights](https://github.com/KTH/programmable-society/tree/2025/contributions/demo/week6/shatan) Shangxuan Tang (shatan@kth.se)
+- [demo] [Monitoring a betting app using Dune](https://github.com/KTH/programmable-society/tree/2025/contributions/demo/week6/smio) Ionescu Serban-Mihai (smio@kth.se)
+- [demo] [Real-Time ERC20 Analytics: Indexing Smart-Contract Events with Envio](https://github.com/KTH/programmable-society/tree/2025/contributions/demo/week6/yifsu) Yifan Su (yifsu@kth.se)
+- [presentation] [Optimism - A L2 Network on Ethereum Network](https://github.com/KTH/programmable-society/tree/2025/contributions/presentation/week6/zjia) Ziyuan Jia (zjia@kth.se)
+- [paper presentation] [Blockchain CAP Theorem Allows User-Dependent Adaptivity and Finality](https://github.com/KTH/programmable-society/tree/2025/contributions/paper-book-presentation/week6/mingtaoz) Mingtao Zhang (mingtaoz@kth.se)
+- [paper presentation] [Future-Proofing Blockchain Infrastructure in the Quantum Era: Quantum Blind Signatures for Secure Smart Contracts](https://github.com/KTH/programmable-society/tree/2025/contributions/paper-book-presentation/week6/ryclin) Randall Lin Yi Cong (ryclin@kth.se)
+- [paper presentation] [From Trust to Truth: Infrastructure Challenges and Advances in Mitigating the Blockchain Oracle Problem](https://github.com/KTH/programmable-society/tree/2025/contributions/paper-book-presentation/week6/sacsim) Serene Sim Ann Chee (sacsim@kth.se)
+- [paper presentation] [Leveraging complex event processing for monitoring and automatically detecting anomalies in Ethereum-based blockchain networks](https://github.com/KTH/programmable-society/tree/2025/contributions/paper-book-presentation/week6/sinvel) Singvalliyappa Velayutham ([sinvel@kth.se](mailto:sinvel@kth.se))
+- [paper presentation] [SoK: Decentralized Finance (DeFi) Attacks](https://github.com/KTH/programmable-society/tree/2025/contributions/paper-book-presentation/week6/yuz2) Yu Zhang (yuz2@kth.se)

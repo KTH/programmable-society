@@ -6,7 +6,7 @@ Understanding Security Issues in the DAO Governance Process
 
 ## Names and KTH ID
 
-  - Md Ahsanul karim (makari@kth.se)
+  - Md Ahsanul karim (makari@kth.se) 
   
 ## Deadline
 
@@ -15,7 +15,7 @@ Understanding Security Issues in the DAO Governance Process
 
 - Paper Presentation
 
-- Reference : 
+- Reference: 
 Understanding Security Issues in the DAO Governance Process
 https://ieeexplore.ieee.org/abstract/document/10891888/
 IEEE Transactions on Software Engineering

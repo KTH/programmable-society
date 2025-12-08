@@ -10,7 +10,7 @@ Intro to the Art of the Scam: ETH Honeypots
 
 ## Deadline
 
-- Week 7 OR Week 7 Lab Hour over Zoom (Please see my email to programmable-society-ta@kth.se titled "May I Present Remotely During Lab Hours")
+- Week 7 Lab Hour over Zoom (Please see my email to programmable-society-ta@kth.se titled "May I Present Remotely During Lab Hours")
 
 ## Category
 

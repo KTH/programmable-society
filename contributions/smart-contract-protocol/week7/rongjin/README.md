@@ -1,0 +1,23 @@
+# Assignment Proposal
+
+## Title
+
+An On-Chain Class Voting Protocol
+
+## Names and KTH ID
+
+- Rong Jin (rongjin@kth.se)
+
+## Deadline
+
+- Week 7
+
+## Category
+
+- Smart Contract Protocol
+
+## Description
+
+An on-chain voting system where participants can create proposals, cast yes/no votes, and view results transparently on the blockchain.  
+Each address is limited to one vote per proposal, preventing double-voting.  
+The aim is to demonstrate a minimal yet functional governance mechanism suitable for classroom or small-group scenarios.

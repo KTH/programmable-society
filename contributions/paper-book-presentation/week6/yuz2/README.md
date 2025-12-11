@@ -1,7 +1,7 @@
 # Assignment Proposal
 
 ## Title  
-Bridging the Gap: A Systematization of Real-World DeFi Attacks and Defense Strategies
+SoK: Decentralized Finance (DeFi) Attacks
 
 ## Names and KTH ID  
 - Yu Zhang (yuz2@kth.se)

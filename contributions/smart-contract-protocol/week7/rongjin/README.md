@@ -6,7 +6,6 @@ An On-Chain Class Voting Protocol
 
 ## Names and KTH ID
 
-- Adrian Mehmeti (amehmeti@kth.se)
 - Rong Jin (rongjin@kth.se)
 
 ## Deadline

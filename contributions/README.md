@@ -37,6 +37,7 @@
 - [paper presentation] [Future-Proofing Blockchain Infrastructure in the Quantum Era: Quantum Blind Signatures for Secure Smart Contracts](https://github.com/KTH/programmable-society/tree/2025/contributions/paper-book-presentation/week6/ryclin) Randall Lin Yi Cong (ryclin@kth.se)
 - [paper presentation] [From Trust to Truth: Infrastructure Challenges and Advances in Mitigating the Blockchain Oracle Problem](https://github.com/KTH/programmable-society/tree/2025/contributions/paper-book-presentation/week6/sacsim) Serene Sim Ann Chee (sacsim@kth.se)
 - [paper presentation] [Leveraging complex event processing for monitoring and automatically detecting anomalies in Ethereum-based blockchain networks](https://github.com/KTH/programmable-society/tree/2025/contributions/paper-book-presentation/week6/sinvel) Singvalliyappa Velayutham ([sinvel@kth.se](mailto:sinvel@kth.se))
+- [paper presentation] [SoK: Decentralized Finance (DeFi) Attacks](https://github.com/KTH/programmable-society/tree/2025/contributions/paper-book-presentation/week6/yuz2) Yu Zhang (yuz2@kth.se)
 
 
 ## week 7
@@ -53,11 +54,7 @@
 - [demo] [On-Chain Verifiable Randomness: Demo with Chainlink VRF.](https://github.com/KTH/programmable-society/tree/2025/contributions/demo/week7/sacsim) Serene Sim Ann Chee (sacsim@kth.se)
 - [demo] [Fair Play in Open Cards: Implementing Commit-Reveal Voting](https://github.com/KTH/programmable-society/tree/2025/contributions/demo/week7/yuz2) Yu Zhang (yuz2@kth.se)
 - [presentation] [Quadratic Voting in DAOs: Beyond one-token-one-vote](https://github.com/KTH/programmable-society/tree/2025/contributions/presentation/week7/ryclin) Randall Lin Yi Cong (ryclin@kth.se)
-- [presentation] [Decentralized Identity (DID) and Credentials with Ceramic Network](https://github.com/KTH/programmable-society/tree/2025/contributions/presentation/week7/sacsim) Serene Sim Ann Chee (sacsim@kth.se)
 - [presentation] [More than JPEG's - Autonomous Living Art with dNFTs](https://github.com/KTH/programmable-society/tree/2025/contributions/presentation/week7/smio) Ionescu Serban-Mihai (smio@kth.se)
-- [paper presentation] [Understanding Security Issues in the DAO Governance Process](https://github.com/KTH/programmable-society/tree/2025/contributions/paper-book-presentation/week7/makari) Md Ahsanul karim (makari@kth.se)
 - [paper presentation] [Survey of Blockchain-Based On-Chain E-Voting Solutions](https://github.com/KTH/programmable-society/tree/2025/contributions/paper-book-presentation/week7/msis3) Md Sakibul Islam (msis3@kth.se)
-- [paper presentation] [Intro to the Art of the Scam: ETH Honeypots](https://github.com/KTH/programmable-society/tree/2025/contributions/paper-book-presentation/week7/rongjin) Rong Jin (rongjin@kth.se)
 
 
-- [paper presentation] [SoK: Decentralized Finance (DeFi) Attacks](https://github.com/KTH/programmable-society/tree/2025/contributions/paper-book-presentation/week6/yuz2) Yu Zhang (yuz2@kth.se)

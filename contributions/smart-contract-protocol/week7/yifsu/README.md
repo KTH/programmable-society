@@ -23,3 +23,5 @@ A distributed identity system that allows users to generate a key pair and mint 
 - Trusted issuers can issue VCs for DIDs, and VCs can be verified by on-chain validators.
 - Anyone(include non-users) can use a tool to query any DID and its verified information.
 
+Repo: https://github.com/SoraShu/Soul-DID
+

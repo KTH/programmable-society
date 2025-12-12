@@ -37,4 +37,27 @@
 - [paper presentation] [Future-Proofing Blockchain Infrastructure in the Quantum Era: Quantum Blind Signatures for Secure Smart Contracts](https://github.com/KTH/programmable-society/tree/2025/contributions/paper-book-presentation/week6/ryclin) Randall Lin Yi Cong (ryclin@kth.se)
 - [paper presentation] [From Trust to Truth: Infrastructure Challenges and Advances in Mitigating the Blockchain Oracle Problem](https://github.com/KTH/programmable-society/tree/2025/contributions/paper-book-presentation/week6/sacsim) Serene Sim Ann Chee (sacsim@kth.se)
 - [paper presentation] [Leveraging complex event processing for monitoring and automatically detecting anomalies in Ethereum-based blockchain networks](https://github.com/KTH/programmable-society/tree/2025/contributions/paper-book-presentation/week6/sinvel) Singvalliyappa Velayutham ([sinvel@kth.se](mailto:sinvel@kth.se))
+
+
+## week 7
+
+- [protocol] [Smart Contract Protocol: Timestamping digital material with Blockchain to establish "legal" proof.](https://github.com/KTH/programmable-society/tree/2025/contributions/smart-contract-protocol/week7/edwinso) Edwin So (edwinso@kth.se)
+- [protocol] [A Smart Contract Protocol for Integrity and Version Verification of Software Bills of Materials (SBOMs)](https://github.com/KTH/programmable-society/tree/2025/contributions/smart-contract-protocol/week7/makari)
+- [protocol] [MedChain Consent: Blockchain-Based Patient Consent & Access Control Protocol](https://github.com/KTH/programmable-society/tree/2025/contributions/smart-contract-protocol/week7/msis3)
+- [protocol] [An On-Chain Class Voting Protocol](https://github.com/KTH/programmable-society/tree/2025/contributions/smart-contract-protocol/week7/rongjin) Rong Jin (rongjin@kth.se)
+- [protocol] [Course NFT Badge Creation and Airdrop](https://github.com/KTH/programmable-society/tree/2025/contributions/smart-contract-protocol/week7/shatan-runzec) Shangxuan Tang (shatan@kth.se), Runze Cui (runzec@kth.se)
+- [protocol] [**Social Betting : On-Chain betting for small groups**](https://github.com/KTH/programmable-society/tree/2025/contributions/smart-contract-protocol/week7/sinvel) Singvalliyappa Velayutham ([sinvel@kth.se](mailto:sinvel@kth.se))
+- [protocol] [A Minimal Proof-of-Personhood Identity Protocol](https://github.com/KTH/programmable-society/tree/2025/contributions/smart-contract-protocol/week7/smio)
+- [protocol] [A Distributed Identity System](https://github.com/KTH/programmable-society/tree/2025/contributions/smart-contract-protocol/week7/yifsu) Yifan Su (yifsu@kth.se)
+- [protocol] [Crowdsourced Insurance Protocol](https://github.com/KTH/programmable-society/tree/2025/contributions/smart-contract-protocol/week7/zjia-mingtaoz) Ziyuan Jia (zjia@kth.se), Mingtao Zhang (mingtaoz@kth.se)
+- [demo] [On-Chain Verifiable Randomness: Demo with Chainlink VRF.](https://github.com/KTH/programmable-society/tree/2025/contributions/demo/week7/sacsim) Serene Sim Ann Chee (sacsim@kth.se)
+- [demo] [Fair Play in Open Cards: Implementing Commit-Reveal Voting](https://github.com/KTH/programmable-society/tree/2025/contributions/demo/week7/yuz2) Yu Zhang (yuz2@kth.se)
+- [presentation] [Quadratic Voting in DAOs: Beyond one-token-one-vote](https://github.com/KTH/programmable-society/tree/2025/contributions/presentation/week7/ryclin) Randall Lin Yi Cong (ryclin@kth.se)
+- [presentation] [Decentralized Identity (DID) and Credentials with Ceramic Network](https://github.com/KTH/programmable-society/tree/2025/contributions/presentation/week7/sacsim) Serene Sim Ann Chee (sacsim@kth.se)
+- [presentation] [More than JPEG's - Autonomous Living Art with dNFTs](https://github.com/KTH/programmable-society/tree/2025/contributions/presentation/week7/smio) Ionescu Serban-Mihai (smio@kth.se)
+- [paper presentation] [Understanding Security Issues in the DAO Governance Process](https://github.com/KTH/programmable-society/tree/2025/contributions/paper-book-presentation/week7/makari) Md Ahsanul karim (makari@kth.se)
+- [paper presentation] [Survey of Blockchain-Based On-Chain E-Voting Solutions](https://github.com/KTH/programmable-society/tree/2025/contributions/paper-book-presentation/week7/msis3) Md Sakibul Islam (msis3@kth.se)
+- [paper presentation] [Intro to the Art of the Scam: ETH Honeypots](https://github.com/KTH/programmable-society/tree/2025/contributions/paper-book-presentation/week7/rongjin) Rong Jin (rongjin@kth.se)
+
+
 - [paper presentation] [SoK: Decentralized Finance (DeFi) Attacks](https://github.com/KTH/programmable-society/tree/2025/contributions/paper-book-presentation/week6/yuz2) Yu Zhang (yuz2@kth.se)

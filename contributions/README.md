@@ -44,7 +44,6 @@
 
 - [protocol] [Smart Contract Protocol: Timestamping digital material with Blockchain to establish "legal" proof.](https://github.com/KTH/programmable-society/tree/2025/contributions/smart-contract-protocol/week7/edwinso) Edwin So (edwinso@kth.se)
 - [protocol] [A Smart Contract Protocol for Integrity and Version Verification of Software Bills of Materials (SBOMs)](https://github.com/KTH/programmable-society/tree/2025/contributions/smart-contract-protocol/week7/makari)
-- [protocol] [MedChain Consent: Blockchain-Based Patient Consent & Access Control Protocol](https://github.com/KTH/programmable-society/tree/2025/contributions/smart-contract-protocol/week7/msis3)
 - [protocol] [An On-Chain Class Voting Protocol](https://github.com/KTH/programmable-society/tree/2025/contributions/smart-contract-protocol/week7/rongjin) Rong Jin (rongjin@kth.se)
 - [protocol] [Course NFT Badge Creation and Airdrop](https://github.com/KTH/programmable-society/tree/2025/contributions/smart-contract-protocol/week7/shatan-runzec) Shangxuan Tang (shatan@kth.se), Runze Cui (runzec@kth.se)
 - [protocol] [**Social Betting : On-Chain betting for small groups**](https://github.com/KTH/programmable-society/tree/2025/contributions/smart-contract-protocol/week7/sinvel) Singvalliyappa Velayutham ([sinvel@kth.se](mailto:sinvel@kth.se))
